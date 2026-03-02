@@ -1,0 +1,64 @@
+{
+  "raised": 8147,
+  "goal": 20000,
+  "donors": 51,
+  "last_updated": "2026-03-03",
+  "recent_donors": [
+    {
+      "date": "2026-03-02 19:42:42",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Steven Hastedt",
+      "message": "Well done boys !!!"
+    },
+    {
+      "date": "2026-02-28 15:50:47",
+      "amount": 31650,
+      "amount_display": "$316",
+      "name": "Paul  Honeyman",
+      "message": ""
+    },
+    {
+      "date": "2026-02-20 11:20:26",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Izzy Jacobson",
+      "message": "Unbelievably proud of you boys \ud83d\udc99"
+    },
+    {
+      "date": "2026-01-15 11:24:33",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Brendon & Ammy",
+      "message": "Good luck !!!"
+    },
+    {
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-02-28 08:31:59",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jeremy Sheader",
+      "message": "This is awesome"
+    },
+    {
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
+    },
+    {
+      "date": "2026-01-13 10:07:16",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Baxter",
+      "message": "Coming up to four years too long\u2026 thank you for doing this!"
+    }
+  ]
+}
