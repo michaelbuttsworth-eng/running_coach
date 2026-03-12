@@ -1,21 +1,21 @@
 {
-  "raised": 9267,
+  "raised": 9305,
   "goal": 20000,
-  "donors": 59,
+  "donors": 60,
   "last_updated": "2026-03-12",
   "recent_donors": [
+    {
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
+    },
     {
       "date": "2026-03-12 12:53:08",
       "amount": 5412,
       "amount_display": "$54",
       "name": "Simone Reedy",
-      "message": ""
-    },
-    {
-      "date": "2026-03-12 12:40:39",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Griffith family",
       "message": ""
     },
     {
