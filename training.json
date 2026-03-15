@@ -1,7 +1,7 @@
 {
-  "total_km": 471.35,
+  "total_km": 489.92,
   "total_target_km": 1306,
-  "last_updated": "2026-03-15",
+  "last_updated": "2026-03-16",
   "weeks": [
     {
       "label": "Jan \u2013 Feb",
@@ -26,9 +26,9 @@
       "start": "2026-03-09",
       "end": "2026-03-15",
       "target_km": 62,
-      "actual_km": 48.76,
+      "actual_km": 67.33,
       "phase": "Base",
-      "status": "current"
+      "status": "complete"
     },
     {
       "label": "Week 3",
@@ -37,7 +37,7 @@
       "target_km": 62,
       "actual_km": null,
       "phase": "Base",
-      "status": "upcoming"
+      "status": "current"
     },
     {
       "label": "Week 4",
