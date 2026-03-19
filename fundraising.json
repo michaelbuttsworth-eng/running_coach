@@ -1,21 +1,21 @@
 {
   "raised": 10179,
   "goal": 20000,
-  "donors": 67,
+  "donors": 68,
   "last_updated": "2026-03-20",
   "recent_donors": [
+    {
+      "date": "2026-03-20 09:33:53",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "lyn mcgarry",
+      "message": ""
+    },
     {
       "date": "2026-03-19 18:23:11",
       "amount": 5412,
       "amount_display": "$54",
       "name": "Ethan",
-      "message": ""
-    },
-    {
-      "date": "2026-03-19 18:03:39",
-      "amount": 3000,
-      "amount_display": "$30",
-      "name": "Nancy and Robyn",
       "message": ""
     },
     {
