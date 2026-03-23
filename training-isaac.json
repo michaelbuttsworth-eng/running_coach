@@ -51,7 +51,7 @@
       "actual_km": null,
       "phase": "Build 1",
       "status": "current",
-      "cycling_km": null
+      "cycling_km": 32.37
     },
     {
       "label": "Week 5",
@@ -144,6 +144,6 @@
       "cycling_km": null
     }
   ],
-  "cycling_total_km": 76.39,
-  "current_week_cycling_km": 0.0
+  "cycling_total_km": 108.76,
+  "current_week_cycling_km": 32.37
 }
