@@ -10,7 +10,8 @@
       "target_km": null,
       "actual_km": 264.58,
       "phase": "pre-plan",
-      "status": "complete"
+      "status": "complete",
+      "cycling_km": 14.43
     },
     {
       "label": "Week 1",
@@ -19,7 +20,8 @@
       "target_km": 62,
       "actual_km": 46.76,
       "phase": "Base",
-      "status": "complete"
+      "status": "complete",
+      "cycling_km": null
     },
     {
       "label": "Week 2",
@@ -28,7 +30,8 @@
       "target_km": 62,
       "actual_km": 6.52,
       "phase": "Base",
-      "status": "complete"
+      "status": "complete",
+      "cycling_km": null
     },
     {
       "label": "Week 3",
@@ -37,7 +40,8 @@
       "target_km": 62,
       "actual_km": 49.53,
       "phase": "Base",
-      "status": "complete"
+      "status": "complete",
+      "cycling_km": null
     },
     {
       "label": "Week 4",
@@ -46,7 +50,8 @@
       "target_km": 70,
       "actual_km": null,
       "phase": "Build 1",
-      "status": "current"
+      "status": "current",
+      "cycling_km": null
     },
     {
       "label": "Week 5",
@@ -55,7 +60,8 @@
       "target_km": 70,
       "actual_km": null,
       "phase": "Build 1",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 6",
@@ -64,7 +70,8 @@
       "target_km": 70,
       "actual_km": null,
       "phase": "Build 1",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 7",
@@ -73,7 +80,8 @@
       "target_km": 82,
       "actual_km": null,
       "phase": "Build 2",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 8",
@@ -82,7 +90,8 @@
       "target_km": 82,
       "actual_km": null,
       "phase": "Build 2",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 9",
@@ -91,7 +100,8 @@
       "target_km": 82,
       "actual_km": null,
       "phase": "Build 2",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 10",
@@ -100,7 +110,8 @@
       "target_km": 100,
       "actual_km": null,
       "phase": "Peak",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 11",
@@ -109,7 +120,8 @@
       "target_km": 100,
       "actual_km": null,
       "phase": "Peak",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 12",
@@ -118,7 +130,8 @@
       "target_km": 65,
       "actual_km": null,
       "phase": "Taper",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     },
     {
       "label": "Week 13",
@@ -127,7 +140,10 @@
       "target_km": 65,
       "actual_km": null,
       "phase": "Taper",
-      "status": "upcoming"
+      "status": "upcoming",
+      "cycling_km": null
     }
-  ]
+  ],
+  "cycling_total_km": 14.43,
+  "current_week_cycling_km": 0.0
 }
