@@ -1,22 +1,22 @@
 {
-  "raised": 10365,
+  "raised": 10419,
   "goal": 20000,
-  "donors": 69,
+  "donors": 70,
   "last_updated": "2026-03-27",
   "recent_donors": [
+    {
+      "date": "2026-03-27 21:20:28",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Ellie L",
+      "message": ""
+    },
     {
       "date": "2026-03-22 08:52:10",
       "amount": 13188,
       "amount_display": "$132",
       "name": "Bestie and Henry Cadalt",
       "message": "Good Luck Boys! Bestie and Henry!"
-    },
-    {
-      "date": "2026-03-20 09:33:53",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "lyn mcgarry",
-      "message": ""
     },
     {
       "date": "2026-01-15 11:24:33",
