@@ -11,7 +11,7 @@
       "actual_km": 362.04,
       "phase": "pre-plan",
       "status": "complete",
-      "cycling_km": 56.03
+      "cycling_km": null
     },
     {
       "label": "Week 1",
@@ -41,7 +41,7 @@
       "actual_km": null,
       "phase": "Base",
       "status": "complete",
-      "cycling_km": 20.36
+      "cycling_km": null
     },
     {
       "label": "Week 4",
@@ -51,7 +51,7 @@
       "actual_km": 22.95,
       "phase": "Build 1",
       "status": "complete",
-      "cycling_km": 95.16
+      "cycling_km": null
     },
     {
       "label": "Week 5",
@@ -144,6 +144,6 @@
       "cycling_km": null
     }
   ],
-  "cycling_total_km": 171.55,
+  "cycling_total_km": 0.0,
   "current_week_cycling_km": 0.0
 }
