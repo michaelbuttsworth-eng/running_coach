@@ -2,7 +2,7 @@
   "raised": 10973,
   "goal": 20000,
   "donors": 72,
-  "last_updated": "2026-04-06",
+  "last_updated": "2026-04-07",
   "recent_donors": [
     {
       "date": "2026-04-04 20:26:08",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-02-20 11:20:26",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Izzy Jacobson",
-      "message": "Unbelievably proud of you boys \ud83d\udc99"
-    },
-    {
-      "date": "2026-02-28 08:31:59",
+      "date": "2026-01-15 11:24:33",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Jeremy Sheader",
-      "message": "This is awesome"
+      "name": "Brendon & Ammy",
+      "message": "Good luck !!!"
     },
     {
-      "date": "2026-01-12 19:01:42",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Aaron Jones",
-      "message": "Smash it bruz"
-    },
-    {
-      "date": "2026-01-22 21:50:15",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Lisa Smith (Powell)",
-      "message": "Good luck!!!"
-    },
-    {
-      "date": "2026-01-13 21:07:26",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Linds & Nath",
-      "message": "Go Ethan!"
-    },
-    {
-      "date": "2026-01-12 23:15:13",
+      "date": "2026-02-02 17:23:01",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+      "name": "Belinda",
+      "message": "Good luck lads!"
+    },
+    {
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+    },
+    {
+      "date": "2026-01-13 11:10:30",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Bron Mitchell",
+      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+    },
+    {
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+    },
+    {
+      "date": "2026-03-05 20:28:42",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Rochelle and Clint Mutton",
+      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
     }
   ]
 }
