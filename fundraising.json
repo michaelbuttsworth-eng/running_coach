@@ -2,7 +2,7 @@
   "raised": 10973,
   "goal": 20000,
   "donors": 72,
-  "last_updated": "2026-04-07",
+  "last_updated": "2026-04-08",
   "recent_donors": [
     {
       "date": "2026-04-04 20:26:08",
@@ -19,18 +19,32 @@
       "message": ""
     },
     {
-      "date": "2026-01-15 11:24:33",
+      "date": "2026-02-28 08:31:59",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
+      "name": "Jeremy Sheader",
+      "message": "This is awesome"
     },
     {
-      "date": "2026-02-02 17:23:01",
+      "date": "2026-01-15 20:30:17",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Belinda",
-      "message": "Good luck lads!"
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-03-22 08:52:10",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Bestie and Henry Cadalt",
+      "message": "Good Luck Boys! Bestie and Henry!"
+    },
+    {
+      "date": "2026-02-02 20:41:55",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Karen and Michael Beattie",
+      "message": "Great cause. Wishing you all the best for your big journey."
     },
     {
       "date": "2026-03-17 07:22:47",
@@ -40,25 +54,11 @@
       "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
     },
     {
-      "date": "2026-01-13 11:10:30",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Bron Mitchell",
-      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
-    },
-    {
-      "date": "2026-02-03 13:03:23",
-      "amount": 3315,
-      "amount_display": "$33",
-      "name": "Elaine & Phil",
-      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
-    },
-    {
-      "date": "2026-03-05 20:28:42",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Rochelle and Clint Mutton",
-      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
+      "date": "2026-03-02 19:42:42",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Steven Hastedt",
+      "message": "Well done boys !!!"
     }
   ]
 }
