@@ -1,7 +1,7 @@
 {
-  "total_km": 600.5,
+  "total_km": 607.51,
   "total_target_km": 1306,
-  "last_updated": "2026-04-12",
+  "last_updated": "2026-04-20",
   "weeks": [
     {
       "label": "Jan \u2013 Feb",
@@ -70,7 +70,7 @@
       "target_km": 70,
       "actual_km": 27.9,
       "phase": "Build 1",
-      "status": "current",
+      "status": "complete",
       "cycling_km": 41.82
     },
     {
@@ -78,10 +78,10 @@
       "start": "2026-04-13",
       "end": "2026-04-19",
       "target_km": 82,
-      "actual_km": null,
+      "actual_km": 7.01,
       "phase": "Build 2",
-      "status": "upcoming",
-      "cycling_km": null
+      "status": "complete",
+      "cycling_km": 211.42
     },
     {
       "label": "Week 8",
@@ -90,7 +90,7 @@
       "target_km": 82,
       "actual_km": null,
       "phase": "Build 2",
-      "status": "upcoming",
+      "status": "current",
       "cycling_km": null
     },
     {
@@ -144,6 +144,6 @@
       "cycling_km": null
     }
   ],
-  "cycling_total_km": 245.41,
-  "current_week_cycling_km": 41.82
+  "cycling_total_km": 456.83,
+  "current_week_cycling_km": 0.0
 }
