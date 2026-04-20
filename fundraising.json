@@ -1,22 +1,36 @@
 {
-  "raised": 10973,
+  "raised": 11702,
   "goal": 20000,
-  "donors": 72,
-  "last_updated": "2026-04-12",
+  "donors": 78,
+  "last_updated": "2026-04-20",
   "recent_donors": [
     {
-      "date": "2026-04-04 20:26:08",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Anonymous",
-      "message": "Great cause Ethan."
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
     },
     {
-      "date": "2026-04-02 15:03:30",
-      "amount": 50000,
-      "amount_display": "$500",
-      "name": "Lithgow Workies",
-      "message": ""
+      "date": "2026-04-20 10:25:28",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Rod Lorimer",
+      "message": "Well done boys"
+    },
+    {
+      "date": "2026-01-19 06:39:50",
+      "amount": 2258,
+      "amount_display": "$23",
+      "name": "Ellie Shields",
+      "message": "See you in Newy, good luck !"
+    },
+    {
+      "date": "2026-02-02 17:23:01",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Belinda",
+      "message": "Good luck lads!"
     },
     {
       "date": "2026-02-26 07:05:06",
@@ -26,18 +40,18 @@
       "message": "So proud of you guys"
     },
     {
-      "date": "2026-03-02 19:42:42",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Steven Hastedt",
-      "message": "Well done boys !!!"
+      "date": "2026-03-05 20:28:42",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Rochelle and Clint Mutton",
+      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
     },
     {
-      "date": "2026-02-02 19:52:51",
-      "amount": 21100,
-      "amount_display": "$211",
-      "name": "Denise Thompson",
-      "message": "So very proud of you both xx"
+      "date": "2026-01-12 22:27:00",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Favero and associates financial planning",
+      "message": "Good luck"
     },
     {
       "date": "2026-03-22 08:52:10",
@@ -45,20 +59,6 @@
       "amount_display": "$132",
       "name": "Bestie and Henry Cadalt",
       "message": "Good Luck Boys! Bestie and Henry!"
-    },
-    {
-      "date": "2026-01-12 21:36:50",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Cross",
-      "message": "You\u2019ve got this, support all the way"
-    },
-    {
-      "date": "2026-01-12 23:15:13",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     }
   ]
 }
