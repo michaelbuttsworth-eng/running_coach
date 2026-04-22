@@ -2,7 +2,7 @@
   "raised": 11702,
   "goal": 20000,
   "donors": 78,
-  "last_updated": "2026-04-22",
+  "last_updated": "2026-04-23",
   "recent_donors": [
     {
       "date": "2026-04-20 14:55:25",
@@ -19,11 +19,39 @@
       "message": "Well done boys"
     },
     {
-      "date": "2026-01-13 08:53:26",
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+    },
+    {
+      "date": "2026-02-02 20:41:55",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Tom",
-      "message": "Caples Cl represent \ud83e\udee1"
+      "name": "Karen and Michael Beattie",
+      "message": "Great cause. Wishing you all the best for your big journey."
+    },
+    {
+      "date": "2026-01-12 23:15:13",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+    },
+    {
+      "date": "2026-01-13 21:07:26",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Linds & Nath",
+      "message": "Go Ethan!"
+    },
+    {
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
     },
     {
       "date": "2026-02-12 16:17:02",
@@ -31,34 +59,6 @@
       "amount_display": "$200",
       "name": "Steele and Co Law and Conveyancing",
       "message": "Well done, great cause"
-    },
-    {
-      "date": "2026-01-12 19:01:42",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Aaron Jones",
-      "message": "Smash it bruz"
-    },
-    {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
-    },
-    {
-      "date": "2026-02-02 18:09:26",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Richard & Ann Parker",
-      "message": "Go boys!!! Great cause."
-    },
-    {
-      "date": "2026-02-21 14:45:11",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Joey Blackie",
-      "message": "Good luck boys"
     }
   ]
 }
