@@ -2,7 +2,7 @@
   "raised": 11871,
   "goal": 20000,
   "donors": 81,
-  "last_updated": "2026-04-27",
+  "last_updated": "2026-04-28",
   "recent_donors": [
     {
       "date": "2026-04-27 13:09:50",
@@ -19,32 +19,11 @@
       "message": "Making him proud bro \u2764\ufe0f"
     },
     {
-      "date": "2026-01-13 10:07:16",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Baxter",
-      "message": "Coming up to four years too long\u2026 thank you for doing this!"
-    },
-    {
-      "date": "2026-02-20 11:20:26",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Izzy Jacobson",
-      "message": "Unbelievably proud of you boys \ud83d\udc99"
-    },
-    {
-      "date": "2026-02-03 21:32:36",
-      "amount": 1141,
-      "amount_display": "$11",
-      "name": "Liz Evans",
-      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
-    },
-    {
-      "date": "2026-01-12 23:15:13",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+      "date": "2026-01-13 08:57:29",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Darren Sinclair",
+      "message": "Great work Ethan. Good luck to you and Austin"
     },
     {
       "date": "2026-01-13 21:19:04",
@@ -54,11 +33,32 @@
       "message": "A huge commitment to support such an important cause. We\u2019re right behind you!"
     },
     {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
+      "date": "2026-02-02 18:57:12",
+      "amount": 12500,
+      "amount_display": "$125",
+      "name": "Marg Sharkey",
+      "message": "Well done Ethan"
+    },
+    {
+      "date": "2026-01-15 11:24:33",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Brendon & Ammy",
+      "message": "Good luck !!!"
+    },
+    {
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+    },
+    {
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
     }
   ]
 }
