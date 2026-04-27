@@ -1,5 +1,5 @@
 {
-  "total_km": 557.44,
+  "total_km": 570.64,
   "total_target_km": 1306,
   "last_updated": "2026-04-27",
   "weeks": [
@@ -98,7 +98,7 @@
       "start": "2026-04-27",
       "end": "2026-05-03",
       "target_km": 82,
-      "actual_km": null,
+      "actual_km": 13.2,
       "phase": "Build 2",
       "status": "current",
       "cycling_km": null
