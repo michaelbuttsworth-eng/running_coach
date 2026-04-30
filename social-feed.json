@@ -3,7 +3,50 @@
     "username": "bathurst2newy",
     "url": "https://www.instagram.com/bathurst2newy/"
   },
-  "source": "curated",
+  "source": "instagram-public-cache",
   "last_updated": "2026-04-30",
-  "posts": []
+  "posts": [
+    {
+      "permalink": "https://www.instagram.com/p/DXtYIt7D8Au/",
+      "media_url": "/social/ig-DXtYIt7D8Au.jpg",
+      "caption": "32 DAYS!! How awesome, we are just over a month away from one of the biggest challenges any of us boys will ever face. None of this would be possible without everyone who has been support...",
+      "timestamp": "2026-04-29",
+      "media_type": "GraphVideo"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DXquZfxEXPV/",
+      "media_url": "/social/ig-DXquZfxEXPV.jpg",
+      "caption": "Member Shoutout \ud83d\udce3 Two of our awesome members, Isaac and Ethan have taken up a Challenge to run 355km from Bathurst to Newcastle over 6 days from the 1st of June alongside Ethan\u2019s brother...",
+      "timestamp": "2026-04-28",
+      "media_type": "GraphImage"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DXWN5Moj5nv/",
+      "media_url": "/social/ig-DXWN5Moj5nv.jpg",
+      "caption": "KEEEEEEEN, little update on things and going to try get back into posting heaps as we get super close to the day. thank you love you @jb_taylor_roofing @gc_concreting_solutions @raineandh...",
+      "timestamp": "2026-04-20",
+      "media_type": "GraphVideo"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DW28uqeD2Mh/",
+      "media_url": "/social/ig-DW28uqeD2Mh.jpg",
+      "caption": "Little insight of how I have been recovering lately at @bmbrecovery. #recovery #running #runner #health",
+      "timestamp": "2026-04-08",
+      "media_type": "GraphVideo"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DWr_KMyE1UV/",
+      "media_url": "/social/ig-DWr_KMyE1UV.jpg",
+      "caption": "Starting Saturday off with a BANG !! Up The Boys",
+      "timestamp": "2026-04-03",
+      "media_type": "GraphVideo"
+    },
+    {
+      "permalink": "https://www.instagram.com/p/DWgZYltj5Rq/",
+      "media_url": "/social/ig-DWgZYltj5Rq.jpg",
+      "caption": "Huge thankyou to @bmbrecovery and @Health&Fitness Supplies Australia for getting behind the lads by providing unreal recovery equipment for us to use and the supplements to help us stay f...",
+      "timestamp": "2026-03-30",
+      "media_type": "GraphImage"
+    }
+  ]
 }
