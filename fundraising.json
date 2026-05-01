@@ -2,7 +2,7 @@
   "raised": 12014,
   "goal": 20000,
   "donors": 83,
-  "last_updated": "2026-05-01",
+  "last_updated": "2026-05-02",
   "recent_donors": [
     {
       "date": "2026-04-30 07:36:30",
@@ -19,6 +19,13 @@
       "message": ""
     },
     {
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
+    },
+    {
       "date": "2026-02-02 18:57:12",
       "amount": 12500,
       "amount_display": "$125",
@@ -26,39 +33,32 @@
       "message": "Well done Ethan"
     },
     {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
-      "date": "2026-01-12 22:27:00",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Favero and associates financial planning",
-      "message": "Good luck"
+      "date": "2026-01-12 23:15:13",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     },
     {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
+      "date": "2026-03-14 10:37:00",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Danielle & Warwick Campbell",
+      "message": "What an amazing, awesome and selfless thing to do"
     },
     {
-      "date": "2026-03-19 16:48:50",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Jann McDowell",
-      "message": "Good work"
-    },
-    {
-      "date": "2026-04-23 13:40:17",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Anonymous",
-      "message": "Know that Will is beside you"
+      "date": "2026-02-03 21:32:36",
+      "amount": 1141,
+      "amount_display": "$11",
+      "name": "Liz Evans",
+      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
     }
   ]
 }
