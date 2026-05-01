@@ -1,22 +1,22 @@
 {
-  "raised": 12014,
+  "raised": 12120,
   "goal": 20000,
-  "donors": 83,
+  "donors": 84,
   "last_updated": "2026-05-02",
   "recent_donors": [
+    {
+      "date": "2026-05-02 08:14:31",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Newy Press fam",
+      "message": ""
+    },
     {
       "date": "2026-04-30 07:36:30",
       "amount": 3387,
       "amount_display": "$34",
       "name": "Ros",
       "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
-    },
-    {
-      "date": "2026-04-29 21:52:49",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Griffo",
-      "message": ""
     },
     {
       "date": "2026-03-12 13:53:26",
