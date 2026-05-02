@@ -1,9 +1,16 @@
 {
-  "raised": 12120,
+  "raised": 12175,
   "goal": 20000,
-  "donors": 84,
+  "donors": 85,
   "last_updated": "2026-05-02",
   "recent_donors": [
+    {
+      "date": "2026-05-02 13:47:13",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "fergus  mann",
+      "message": ""
+    },
     {
       "date": "2026-05-02 08:14:31",
       "amount": 10612,
@@ -12,53 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-04-30 07:36:30",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Ros",
-      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
+      "date": "2026-01-12 22:27:00",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Favero and associates financial planning",
+      "message": "Good luck"
     },
     {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
     },
     {
-      "date": "2026-02-02 18:57:12",
-      "amount": 12500,
-      "amount_display": "$125",
-      "name": "Marg Sharkey",
-      "message": "Well done Ethan"
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
     },
     {
-      "date": "2026-01-15 20:30:17",
+      "date": "2026-02-02 17:51:36",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Chris & Ann-Maree McIntyre",
-      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "name": "Emma Robinson",
+      "message": "Well done boys"
     },
     {
-      "date": "2026-01-12 23:15:13",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+      "date": "2026-04-27 13:09:50",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jack Van Der Velden",
+      "message": "Best of luck I know you will do yourselves proud"
     },
     {
-      "date": "2026-03-14 10:37:00",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Danielle & Warwick Campbell",
-      "message": "What an amazing, awesome and selfless thing to do"
-    },
-    {
-      "date": "2026-02-03 21:32:36",
-      "amount": 1141,
-      "amount_display": "$11",
-      "name": "Liz Evans",
-      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
+      "date": "2026-01-13 11:10:30",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Bron Mitchell",
+      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     }
   ]
 }
