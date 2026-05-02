@@ -2,7 +2,7 @@
   "raised": 13239,
   "goal": 20000,
   "donors": 87,
-  "last_updated": "2026-05-02",
+  "last_updated": "2026-05-03",
   "recent_donors": [
     {
       "date": "2026-05-02 17:10:15",
@@ -19,32 +19,25 @@
       "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
     },
     {
-      "date": "2026-01-12 22:27:00",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Favero and associates financial planning",
-      "message": "Good luck"
+      "date": "2026-02-03 21:32:36",
+      "amount": 1141,
+      "amount_display": "$11",
+      "name": "Liz Evans",
+      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
     },
     {
-      "date": "2026-02-03 13:03:23",
-      "amount": 3315,
-      "amount_display": "$33",
-      "name": "Elaine & Phil",
-      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+      "date": "2026-04-30 07:36:30",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
     },
     {
-      "date": "2026-02-12 16:17:02",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Steele and Co Law and Conveyancing",
-      "message": "Well done, great cause"
-    },
-    {
-      "date": "2026-02-02 17:51:36",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Emma Robinson",
-      "message": "Well done boys"
+      "date": "2026-02-28 08:31:59",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jeremy Sheader",
+      "message": "This is awesome"
     },
     {
       "date": "2026-04-27 13:09:50",
@@ -59,6 +52,13 @@
       "amount_display": "$106",
       "name": "Bron Mitchell",
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+    },
+    {
+      "date": "2026-01-22 21:50:15",
+      "amount": 8025,
+      "amount_display": "$80",
+      "name": "Lisa Smith (Powell)",
+      "message": "Good luck!!!"
     }
   ]
 }
