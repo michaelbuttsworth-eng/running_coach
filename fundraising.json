@@ -1,22 +1,22 @@
 {
-  "raised": 13294,
+  "raised": 13426,
   "goal": 20000,
-  "donors": 88,
+  "donors": 89,
   "last_updated": "2026-05-04",
   "recent_donors": [
+    {
+      "date": "2026-05-04 03:11:48",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "Riverside Nursery",
+      "message": ""
+    },
     {
       "date": "2026-05-03 10:39:16",
       "amount": 5484,
       "amount_display": "$55",
       "name": "James Worthington",
       "message": "I love Buttsy"
-    },
-    {
-      "date": "2026-05-02 17:10:15",
-      "amount": 104000,
-      "amount_display": "$1,040",
-      "name": "Luke Brennan",
-      "message": ""
     },
     {
       "date": "2026-03-05 20:28:42",
