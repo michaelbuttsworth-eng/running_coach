@@ -1,9 +1,16 @@
 {
-  "raised": 13426,
+  "raised": 13641,
   "goal": 20000,
-  "donors": 89,
+  "donors": 90,
   "last_updated": "2026-05-06",
   "recent_donors": [
+    {
+      "date": "2026-05-06 10:26:59",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Dejorja & co",
+      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+    },
     {
       "date": "2026-05-04 03:11:48",
       "amount": 13265,
@@ -12,11 +19,39 @@
       "message": ""
     },
     {
-      "date": "2026-05-03 10:39:16",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "James Worthington",
-      "message": "I love Buttsy"
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-02-02 20:41:55",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Karen and Michael Beattie",
+      "message": "Great cause. Wishing you all the best for your big journey."
+    },
+    {
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
+    },
+    {
+      "date": "2026-01-13 08:53:26",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Tom",
+      "message": "Caples Cl represent \ud83e\udee1"
+    },
+    {
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
     },
     {
       "date": "2026-02-02 22:33:01",
@@ -24,41 +59,6 @@
       "amount_display": "$54",
       "name": "Noah & Kate Wilkinson",
       "message": "Goodluck Boys \ud83c\udf1f"
-    },
-    {
-      "date": "2026-01-12 19:01:42",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Aaron Jones",
-      "message": "Smash it bruz"
-    },
-    {
-      "date": "2026-04-30 07:36:30",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Ros",
-      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
-    },
-    {
-      "date": "2026-01-13 11:10:30",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Bron Mitchell",
-      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
-    },
-    {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
-    },
-    {
-      "date": "2026-03-02 19:42:42",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Steven Hastedt",
-      "message": "Well done boys !!!"
     }
   ]
 }
