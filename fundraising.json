@@ -2,7 +2,7 @@
   "raised": 14814,
   "goal": 20000,
   "donors": 92,
-  "last_updated": "2026-05-08",
+  "last_updated": "2026-05-09",
   "recent_donors": [
     {
       "date": "2026-05-08 21:20:52",
@@ -19,32 +19,11 @@
       "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
     },
     {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
-    },
-    {
-      "date": "2026-02-12 16:17:02",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Steele and Co Law and Conveyancing",
-      "message": "Well done, great cause"
-    },
-    {
-      "date": "2026-01-13 10:07:16",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Baxter",
-      "message": "Coming up to four years too long\u2026 thank you for doing this!"
-    },
-    {
-      "date": "2026-01-12 22:27:00",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Favero and associates financial planning",
-      "message": "Good luck"
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
     },
     {
       "date": "2026-01-22 21:50:15",
@@ -54,11 +33,32 @@
       "message": "Good luck!!!"
     },
     {
-      "date": "2026-02-03 21:32:36",
-      "amount": 1141,
-      "amount_display": "$11",
-      "name": "Liz Evans",
-      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
+      "date": "2026-02-02 17:23:01",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Belinda",
+      "message": "Good luck lads!"
+    },
+    {
+      "date": "2026-04-30 07:36:30",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
+    },
+    {
+      "date": "2026-02-02 17:51:36",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Emma Robinson",
+      "message": "Well done boys"
+    },
+    {
+      "date": "2026-02-05 14:19:32",
+      "amount": 21100,
+      "amount_display": "$211",
+      "name": "Kel & Dave Dunbar xx",
+      "message": "You guys are amazing\ud83d\ude4c\ud83c\udffc\ud83d\udc4a\ud83c\udffc\ud83e\udd70"
     }
   ]
 }
