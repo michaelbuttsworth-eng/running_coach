@@ -1,9 +1,16 @@
 {
   "raised": 14681,
   "goal": 20000,
-  "donors": 91,
+  "donors": 92,
   "last_updated": "2026-05-08",
   "recent_donors": [
+    {
+      "date": "2026-05-08 21:20:52",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "Andrew Toole",
+      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
+    },
     {
       "date": "2026-05-08 16:47:30",
       "amount": 104000,
@@ -12,18 +19,11 @@
       "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
     },
     {
-      "date": "2026-05-06 10:26:59",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Dejorja & co",
-      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
-    },
-    {
-      "date": "2026-03-19 16:48:50",
+      "date": "2026-03-19 17:56:51",
       "amount": 5000,
       "amount_display": "$50",
-      "name": "Jann McDowell",
-      "message": "Good work"
+      "name": "Lyn McCumstie",
+      "message": "Good luck boys"
     },
     {
       "date": "2026-02-12 16:17:02",
@@ -40,11 +40,11 @@
       "message": "Coming up to four years too long\u2026 thank you for doing this!"
     },
     {
-      "date": "2026-02-03 13:03:23",
-      "amount": 3315,
-      "amount_display": "$33",
-      "name": "Elaine & Phil",
-      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+      "date": "2026-01-12 22:27:00",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Favero and associates financial planning",
+      "message": "Good luck"
     },
     {
       "date": "2026-01-22 21:50:15",
