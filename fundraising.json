@@ -1,22 +1,22 @@
 {
-  "raised": 13641,
+  "raised": 14681,
   "goal": 20000,
-  "donors": 90,
+  "donors": 91,
   "last_updated": "2026-05-08",
   "recent_donors": [
+    {
+      "date": "2026-05-08 16:47:30",
+      "amount": 104000,
+      "amount_display": "$1,040",
+      "name": "Anytime Fitness Bathurst",
+      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
+    },
     {
       "date": "2026-05-06 10:26:59",
       "amount": 21500,
       "amount_display": "$215",
       "name": "Dejorja & co",
       "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
-    },
-    {
-      "date": "2026-05-04 03:11:48",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "Riverside Nursery",
-      "message": ""
     },
     {
       "date": "2026-03-19 16:48:50",
