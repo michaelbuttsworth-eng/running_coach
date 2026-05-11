@@ -2,7 +2,7 @@
   "raised": 15155,
   "goal": 20000,
   "donors": 95,
-  "last_updated": "2026-05-11",
+  "last_updated": "2026-05-12",
   "recent_donors": [
     {
       "date": "2026-05-11 17:45:53",
@@ -19,11 +19,32 @@
       "message": ""
     },
     {
-      "date": "2026-05-06 10:26:59",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Dejorja & co",
-      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+      "date": "2026-04-23 13:40:17",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Anonymous",
+      "message": "Know that Will is beside you"
+    },
+    {
+      "date": "2026-01-13 11:10:30",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Bron Mitchell",
+      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+    },
+    {
+      "date": "2026-04-30 07:36:30",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
+    },
+    {
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
     },
     {
       "date": "2026-01-13 10:07:16",
@@ -33,32 +54,11 @@
       "message": "Coming up to four years too long\u2026 thank you for doing this!"
     },
     {
-      "date": "2026-04-16 16:10:50",
-      "amount": 2000,
-      "amount_display": "$20",
-      "name": "Cheryl Mitford",
-      "message": "Lets look after our mates"
-    },
-    {
-      "date": "2026-03-05 20:28:42",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Rochelle and Clint Mutton",
-      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
-    },
-    {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
-    },
-    {
-      "date": "2026-03-14 10:37:00",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Danielle & Warwick Campbell",
-      "message": "What an amazing, awesome and selfless thing to do"
+      "date": "2026-02-26 07:05:06",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Fiona Halloway",
+      "message": "So proud of you guys"
     }
   ]
 }
