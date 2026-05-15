@@ -1,21 +1,21 @@
 {
-  "raised": 15155,
+  "raised": 15261,
   "goal": 20000,
-  "donors": 95,
+  "donors": 96,
   "last_updated": "2026-05-15",
   "recent_donors": [
+    {
+      "date": "2026-05-15 20:46:02",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Lorette and David Sams",
+      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
     {
       "date": "2026-05-11 17:45:53",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Isabella M",
-      "message": ""
-    },
-    {
-      "date": "2026-05-11 17:13:12",
-      "amount": 20047,
-      "amount_display": "$200",
-      "name": "Anonymous",
       "message": ""
     },
     {
