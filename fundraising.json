@@ -2,7 +2,7 @@
   "raised": 15395,
   "goal": 20000,
   "donors": 99,
-  "last_updated": "2026-05-19",
+  "last_updated": "2026-05-20",
   "recent_donors": [
     {
       "date": "2026-05-17 20:18:02",
@@ -19,46 +19,46 @@
       "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
     },
     {
-      "date": "2026-04-20 14:55:25",
-      "amount": 30000,
-      "amount_display": "$300",
-      "name": "BATHURST RSL CLUB LTD",
-      "message": "Good luck and best wishes"
-    },
-    {
-      "date": "2026-02-28 08:31:59",
+      "date": "2026-05-15 20:46:02",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Jeremy Sheader",
-      "message": "This is awesome"
+      "name": "Lorette and David Sams",
+      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
-      "date": "2026-05-08 16:47:30",
-      "amount": 104000,
-      "amount_display": "$1,040",
-      "name": "Anytime Fitness Bathurst",
-      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
-    },
-    {
-      "date": "2026-04-16 16:10:50",
-      "amount": 2000,
-      "amount_display": "$20",
-      "name": "Cheryl Mitford",
-      "message": "Lets look after our mates"
-    },
-    {
-      "date": "2026-04-23 20:26:06",
+      "date": "2026-04-30 07:36:30",
       "amount": 3387,
       "amount_display": "$34",
-      "name": "Archie",
-      "message": "Making him proud bro \u2764\ufe0f"
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
     },
     {
-      "date": "2026-01-15 20:30:17",
+      "date": "2026-03-02 19:42:42",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Chris & Ann-Maree McIntyre",
-      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "name": "Steven Hastedt",
+      "message": "Well done boys !!!"
+    },
+    {
+      "date": "2026-05-06 10:26:59",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Dejorja & co",
+      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+    },
+    {
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
+    },
+    {
+      "date": "2026-03-05 20:28:42",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Rochelle and Clint Mutton",
+      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
     }
   ]
 }
