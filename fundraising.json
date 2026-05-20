@@ -2,7 +2,7 @@
   "raised": 15395,
   "goal": 20000,
   "donors": 99,
-  "last_updated": "2026-05-20",
+  "last_updated": "2026-05-21",
   "recent_donors": [
     {
       "date": "2026-05-17 20:18:02",
@@ -19,46 +19,46 @@
       "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
     },
     {
-      "date": "2026-05-15 20:46:02",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
-    },
-    {
-      "date": "2026-04-30 07:36:30",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Ros",
-      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
-    },
-    {
-      "date": "2026-03-02 19:42:42",
+      "date": "2026-01-12 23:15:13",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Steven Hastedt",
-      "message": "Well done boys !!!"
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     },
     {
-      "date": "2026-05-06 10:26:59",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Dejorja & co",
-      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
     },
     {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
+      "date": "2026-02-02 17:51:36",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Emma Robinson",
+      "message": "Well done boys"
     },
     {
-      "date": "2026-03-05 20:28:42",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Rochelle and Clint Mutton",
-      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
+    },
+    {
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+    },
+    {
+      "date": "2026-02-03 21:32:36",
+      "amount": 1141,
+      "amount_display": "$11",
+      "name": "Liz Evans",
+      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
     }
   ]
 }
