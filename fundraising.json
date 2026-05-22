@@ -2,7 +2,7 @@
   "raised": 15449,
   "goal": 20000,
   "donors": 100,
-  "last_updated": "2026-05-22",
+  "last_updated": "2026-05-23",
   "recent_donors": [
     {
       "date": "2026-05-22 20:21:13",
@@ -19,32 +19,11 @@
       "message": "You guys are amazing!!!"
     },
     {
-      "date": "2026-04-23 13:40:17",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Anonymous",
-      "message": "Know that Will is beside you"
-    },
-    {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
-    },
-    {
-      "date": "2026-03-19 17:56:51",
+      "date": "2026-03-19 16:48:50",
       "amount": 5000,
       "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
-    },
-    {
-      "date": "2026-02-03 13:03:23",
-      "amount": 3315,
-      "amount_display": "$33",
-      "name": "Elaine & Phil",
-      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+      "name": "Jann McDowell",
+      "message": "Good work"
     },
     {
       "date": "2026-04-20 14:55:25",
@@ -54,11 +33,32 @@
       "message": "Good luck and best wishes"
     },
     {
-      "date": "2026-01-12 21:36:50",
+      "date": "2026-02-02 17:51:36",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Hannah Cross",
-      "message": "You\u2019ve got this, support all the way"
+      "name": "Emma Robinson",
+      "message": "Well done boys"
+    },
+    {
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+    },
+    {
+      "date": "2026-05-02 15:43:33",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "The shaun edition",
+      "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
+    },
+    {
+      "date": "2026-03-14 10:37:00",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Danielle & Warwick Campbell",
+      "message": "What an amazing, awesome and selfless thing to do"
     }
   ]
 }
