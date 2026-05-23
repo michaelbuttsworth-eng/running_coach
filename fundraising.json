@@ -2,7 +2,7 @@
   "raised": 15449,
   "goal": 20000,
   "donors": 100,
-  "last_updated": "2026-05-23",
+  "last_updated": "2026-05-24",
   "recent_donors": [
     {
       "date": "2026-05-22 20:21:13",
@@ -19,25 +19,11 @@
       "message": "You guys are amazing!!!"
     },
     {
-      "date": "2026-03-19 16:48:50",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Jann McDowell",
-      "message": "Good work"
-    },
-    {
-      "date": "2026-04-20 14:55:25",
-      "amount": 30000,
-      "amount_display": "$300",
-      "name": "BATHURST RSL CLUB LTD",
-      "message": "Good luck and best wishes"
-    },
-    {
-      "date": "2026-02-02 17:51:36",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Emma Robinson",
-      "message": "Well done boys"
+      "date": "2026-04-27 13:09:50",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jack Van Der Velden",
+      "message": "Best of luck I know you will do yourselves proud"
     },
     {
       "date": "2026-03-17 07:22:47",
@@ -47,11 +33,25 @@
       "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
     },
     {
+      "date": "2026-02-26 07:05:06",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Fiona Halloway",
+      "message": "So proud of you guys"
+    },
+    {
       "date": "2026-05-02 15:43:33",
       "amount": 2350,
       "amount_display": "$24",
       "name": "The shaun edition",
       "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
+    },
+    {
+      "date": "2026-01-13 21:07:26",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Linds & Nath",
+      "message": "Go Ethan!"
     },
     {
       "date": "2026-03-14 10:37:00",
