@@ -1,9 +1,16 @@
 {
-  "raised": 15875,
+  "raised": 16090,
   "goal": 20000,
-  "donors": 104,
+  "donors": 105,
   "last_updated": "2026-05-25",
   "recent_donors": [
+    {
+      "date": "2026-05-25 20:15:05",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Niel & Renee Howard",
+      "message": "So proud! See you all at the finish line."
+    },
     {
       "date": "2026-05-25 15:26:52",
       "amount": 5000,
@@ -12,32 +19,11 @@
       "message": "\ud83d\udc9b"
     },
     {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
-    },
-    {
-      "date": "2026-02-26 07:05:06",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Fiona Halloway",
-      "message": "So proud of you guys"
-    },
-    {
-      "date": "2026-05-17 10:55:27",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jen Rowston",
-      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
-    },
-    {
-      "date": "2026-02-03 13:03:23",
-      "amount": 3315,
-      "amount_display": "$33",
-      "name": "Elaine & Phil",
-      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
     },
     {
       "date": "2026-05-17 20:18:02",
@@ -47,18 +33,32 @@
       "message": "You guys are amazing!!!"
     },
     {
-      "date": "2026-05-02 15:43:33",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "The shaun edition",
-      "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
+      "date": "2026-04-16 16:10:50",
+      "amount": 2000,
+      "amount_display": "$20",
+      "name": "Cheryl Mitford",
+      "message": "Lets look after our mates"
     },
     {
-      "date": "2026-02-02 22:33:01",
+      "date": "2026-02-02 20:41:55",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Noah & Kate Wilkinson",
-      "message": "Goodluck Boys \ud83c\udf1f"
+      "name": "Karen and Michael Beattie",
+      "message": "Great cause. Wishing you all the best for your big journey."
+    },
+    {
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+    },
+    {
+      "date": "2026-05-24 19:32:35",
+      "amount": 10372,
+      "amount_display": "$104",
+      "name": "Lan Cam Connor Brown",
+      "message": "Wishing you all the best mate x go well"
     }
   ]
 }
