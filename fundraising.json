@@ -1,43 +1,22 @@
 {
-  "raised": 16914,
+  "raised": 16969,
   "goal": 20000,
-  "donors": 109,
+  "donors": 110,
   "last_updated": "2026-05-27",
   "recent_donors": [
+    {
+      "date": "2026-05-27 19:30:03",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Dee Writer",
+      "message": ""
+    },
     {
       "date": "2026-05-27 18:02:47",
       "amount": 20000,
       "amount_display": "$200",
       "name": "Fran & Ian",
       "message": ""
-    },
-    {
-      "date": "2026-05-27 15:46:57",
-      "amount": 4000,
-      "amount_display": "$40",
-      "name": "Di Sams",
-      "message": "Good luck boys"
-    },
-    {
-      "date": "2026-04-20 14:55:25",
-      "amount": 30000,
-      "amount_display": "$300",
-      "name": "BATHURST RSL CLUB LTD",
-      "message": "Good luck and best wishes"
-    },
-    {
-      "date": "2026-03-02 19:42:42",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Steven Hastedt",
-      "message": "Well done boys !!!"
-    },
-    {
-      "date": "2026-05-11 17:09:51",
-      "amount": 8607,
-      "amount_display": "$86",
-      "name": "Anonymous",
-      "message": "Well done mate, hope you achieve your goal"
     },
     {
       "date": "2026-04-16 16:10:50",
@@ -47,18 +26,39 @@
       "message": "Lets look after our mates"
     },
     {
-      "date": "2026-02-05 14:19:32",
-      "amount": 21100,
-      "amount_display": "$211",
-      "name": "Kel & Dave Dunbar xx",
-      "message": "You guys are amazing\ud83d\ude4c\ud83c\udffc\ud83d\udc4a\ud83c\udffc\ud83e\udd70"
+      "date": "2026-05-15 20:46:02",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Lorette and David Sams",
+      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
-      "message": "Good luck boys"
+      "date": "2026-01-22 21:50:15",
+      "amount": 8025,
+      "amount_display": "$80",
+      "name": "Lisa Smith (Powell)",
+      "message": "Good luck!!!"
+    },
+    {
+      "date": "2026-05-25 20:15:05",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Niel & Renee Howard",
+      "message": "So proud! See you all at the finish line."
+    },
+    {
+      "date": "2026-02-03 21:32:36",
+      "amount": 1141,
+      "amount_display": "$11",
+      "name": "Liz Evans",
+      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
+    },
+    {
+      "date": "2026-05-08 21:20:52",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "Andrew Toole",
+      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
     }
   ]
 }
