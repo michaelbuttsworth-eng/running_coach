@@ -2,7 +2,7 @@
   "raised": 16969,
   "goal": 20000,
   "donors": 110,
-  "last_updated": "2026-05-27",
+  "last_updated": "2026-05-28",
   "recent_donors": [
     {
       "date": "2026-05-27 19:30:03",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-04-16 16:10:50",
-      "amount": 2000,
-      "amount_display": "$20",
-      "name": "Cheryl Mitford",
-      "message": "Lets look after our mates"
+      "date": "2026-05-03 10:39:16",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "James Worthington",
+      "message": "I love Buttsy"
     },
     {
-      "date": "2026-05-15 20:46:02",
+      "date": "2026-02-21 14:45:11",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Joey Blackie",
+      "message": "Good luck boys"
+    },
+    {
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-01-13 08:57:29",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Darren Sinclair",
+      "message": "Great work Ethan. Good luck to you and Austin"
+    },
+    {
+      "date": "2026-01-13 10:07:16",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Baxter",
+      "message": "Coming up to four years too long\u2026 thank you for doing this!"
+    },
+    {
+      "date": "2026-02-28 08:31:59",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
-    },
-    {
-      "date": "2026-01-22 21:50:15",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Lisa Smith (Powell)",
-      "message": "Good luck!!!"
-    },
-    {
-      "date": "2026-05-25 20:15:05",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Niel & Renee Howard",
-      "message": "So proud! See you all at the finish line."
-    },
-    {
-      "date": "2026-02-03 21:32:36",
-      "amount": 1141,
-      "amount_display": "$11",
-      "name": "Liz Evans",
-      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
-    },
-    {
-      "date": "2026-05-08 21:20:52",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "Andrew Toole",
-      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
+      "name": "Jeremy Sheader",
+      "message": "This is awesome"
     }
   ]
 }
