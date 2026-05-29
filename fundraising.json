@@ -1,22 +1,22 @@
 {
-  "raised": 17654,
+  "raised": 17708,
   "goal": 20000,
-  "donors": 114,
+  "donors": 115,
   "last_updated": "2026-05-29",
   "recent_donors": [
+    {
+      "date": "2026-05-29 23:27:57",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Anonymous",
+      "message": ""
+    },
     {
       "date": "2026-05-29 12:48:25",
       "amount": 10612,
       "amount_display": "$106",
       "name": "Tam & Ben Stuart",
       "message": "Such a worthy cause. Go boys!!"
-    },
-    {
-      "date": "2026-05-29 12:37:37",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Paul & Sophie Long",
-      "message": ""
     },
     {
       "date": "2026-01-12 23:15:13",
