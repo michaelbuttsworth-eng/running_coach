@@ -1,22 +1,22 @@
 {
   "raised": 17958,
   "goal": 20000,
-  "donors": 119,
+  "donors": 120,
   "last_updated": "2026-05-30",
   "recent_donors": [
+    {
+      "date": "2026-05-30 15:17:15",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "Sam Farraway",
+      "message": "Good luck boys! Very worthy cause."
+    },
     {
       "date": "2026-05-30 14:42:31",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Heather Lamberton",
       "message": "Best of luck Ethan & Austin."
-    },
-    {
-      "date": "2026-05-30 11:42:32",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Gina Davis",
-      "message": "Well done and good luck boys. Davo and Gina."
     },
     {
       "date": "2026-02-20 11:20:26",
@@ -26,18 +26,18 @@
       "message": "Unbelievably proud of you boys \ud83d\udc99"
     },
     {
-      "date": "2026-05-24 19:32:35",
-      "amount": 10372,
-      "amount_display": "$104",
-      "name": "Lan Cam Connor Brown",
-      "message": "Wishing you all the best mate x go well"
+      "date": "2026-05-25 15:23:39",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Nic and Wade Elliott",
+      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
-      "date": "2026-05-15 20:46:02",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-05-17 10:55:27",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jen Rowston",
+      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
     },
     {
       "date": "2026-02-21 14:45:11",
@@ -47,18 +47,18 @@
       "message": "Good luck boys"
     },
     {
-      "date": "2026-01-13 21:19:04",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Steve and meg",
-      "message": "A huge commitment to support such an important cause. We\u2019re right behind you!"
+      "date": "2026-01-19 06:39:50",
+      "amount": 2258,
+      "amount_display": "$23",
+      "name": "Ellie Shields",
+      "message": "See you in Newy, good luck !"
     },
     {
-      "date": "2026-05-11 17:09:51",
-      "amount": 8607,
-      "amount_display": "$86",
-      "name": "Anonymous",
-      "message": "Well done mate, hope you achieve your goal"
+      "date": "2026-05-15 20:46:02",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Lorette and David Sams",
+      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     }
   ]
 }
