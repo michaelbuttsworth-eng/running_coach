@@ -1,43 +1,22 @@
 {
   "raised": 18416,
   "goal": 20000,
-  "donors": 120,
+  "donors": 121,
   "last_updated": "2026-05-30",
   "recent_donors": [
+    {
+      "date": "2026-05-30 17:26:05",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Anonymous",
+      "message": ""
+    },
     {
       "date": "2026-05-30 15:17:15",
       "amount": 13265,
       "amount_display": "$133",
       "name": "Sam Farraway",
       "message": "Good luck boys! Very worthy cause."
-    },
-    {
-      "date": "2026-05-30 14:42:31",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Heather Lamberton",
-      "message": "Best of luck Ethan & Austin."
-    },
-    {
-      "date": "2026-02-20 11:20:26",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Izzy Jacobson",
-      "message": "Unbelievably proud of you boys \ud83d\udc99"
-    },
-    {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
-    },
-    {
-      "date": "2026-05-17 10:55:27",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jen Rowston",
-      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
     },
     {
       "date": "2026-02-21 14:45:11",
@@ -47,18 +26,39 @@
       "message": "Good luck boys"
     },
     {
-      "date": "2026-01-19 06:39:50",
-      "amount": 2258,
-      "amount_display": "$23",
-      "name": "Ellie Shields",
-      "message": "See you in Newy, good luck !"
+      "date": "2026-05-25 15:26:52",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Sophie Felsch",
+      "message": "\ud83d\udc9b"
     },
     {
-      "date": "2026-05-15 20:46:02",
+      "date": "2026-05-17 20:18:02",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jodi  Culnane",
+      "message": "You guys are amazing!!!"
+    },
+    {
+      "date": "2026-02-26 07:05:06",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "name": "Fiona Halloway",
+      "message": "So proud of you guys"
+    },
+    {
+      "date": "2026-01-22 21:50:15",
+      "amount": 8025,
+      "amount_display": "$80",
+      "name": "Lisa Smith (Powell)",
+      "message": "Good luck!!!"
+    },
+    {
+      "date": "2026-05-17 10:55:27",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jen Rowston",
+      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
     }
   ]
 }
