@@ -1,9 +1,16 @@
 {
   "raised": 18632,
   "goal": 20000,
-  "donors": 123,
+  "donors": 124,
   "last_updated": "2026-05-30",
   "recent_donors": [
+    {
+      "date": "2026-05-30 22:15:49",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Jack Mitchell",
+      "message": "Such an important message you\u2019re sending. Good luck guys!"
+    },
     {
       "date": "2026-05-30 20:06:23",
       "amount": 5484,
@@ -12,25 +19,39 @@
       "message": "best of luck boys \ud83e\udd0d"
     },
     {
-      "date": "2026-05-30 17:37:25",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Anna Hugh & Roy Thomas",
-      "message": "Great work boys such a worthwhile cause"
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
     },
     {
-      "date": "2026-04-20 10:25:28",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Rod Lorimer",
-      "message": "Well done boys"
+      "date": "2026-05-26 08:38:58",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Kyle and Immy",
+      "message": "Smash it boys!"
     },
     {
-      "date": "2026-05-25 20:15:05",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Niel & Renee Howard",
-      "message": "So proud! See you all at the finish line."
+      "date": "2026-05-25 15:23:39",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Nic and Wade Elliott",
+      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-02-20 11:20:26",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Izzy Jacobson",
+      "message": "Unbelievably proud of you boys \ud83d\udc99"
+    },
+    {
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
       "date": "2026-05-24 19:32:35",
@@ -38,27 +59,6 @@
       "amount_display": "$104",
       "name": "Lan Cam Connor Brown",
       "message": "Wishing you all the best mate x go well"
-    },
-    {
-      "date": "2026-01-22 21:50:15",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Lisa Smith (Powell)",
-      "message": "Good luck!!!"
-    },
-    {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
-    },
-    {
-      "date": "2026-05-17 20:18:02",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jodi  Culnane",
-      "message": "You guys are amazing!!!"
     }
   ]
 }
