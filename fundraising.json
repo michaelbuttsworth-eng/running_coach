@@ -1,22 +1,22 @@
 {
-  "raised": 18577,
+  "raised": 18632,
   "goal": 20000,
-  "donors": 122,
+  "donors": 123,
   "last_updated": "2026-05-30",
   "recent_donors": [
+    {
+      "date": "2026-05-30 20:06:23",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Hal  Honess",
+      "message": "best of luck boys \ud83e\udd0d"
+    },
     {
       "date": "2026-05-30 17:37:25",
       "amount": 10612,
       "amount_display": "$106",
       "name": "Anna Hugh & Roy Thomas",
       "message": "Great work boys such a worthwhile cause"
-    },
-    {
-      "date": "2026-05-30 17:26:05",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Anonymous",
-      "message": ""
     },
     {
       "date": "2026-04-20 10:25:28",
