@@ -1,22 +1,22 @@
 {
-  "raised": 17763,
+  "raised": 17797,
   "goal": 20000,
-  "donors": 116,
+  "donors": 117,
   "last_updated": "2026-05-30",
   "recent_donors": [
+    {
+      "date": "2026-05-30 10:22:38",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Mel Dennis",
+      "message": "What a great cause! All the best guys !"
+    },
     {
       "date": "2026-05-30 06:05:41",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Tania  Collins",
       "message": "Goodluck guys what an amazing job you all are doing"
-    },
-    {
-      "date": "2026-05-29 23:27:57",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Anonymous",
-      "message": ""
     },
     {
       "date": "2026-05-06 10:26:59",
