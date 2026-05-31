@@ -1,22 +1,22 @@
 {
-  "raised": 21015,
+  "raised": 21069,
   "goal": 20000,
-  "donors": 137,
+  "donors": 138,
   "last_updated": "2026-05-31",
   "recent_donors": [
+    {
+      "date": "2026-05-31 21:01:24",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The O\u2019Mally\u2019s",
+      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
+    },
     {
       "date": "2026-05-31 20:43:12",
       "amount": 18377,
       "amount_display": "$184",
       "name": "Bathurst Roadrunners",
       "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
-    },
-    {
-      "date": "2026-05-31 20:36:12",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Lisa Campbell",
-      "message": ""
     },
     {
       "date": "2026-02-02 17:51:36",
