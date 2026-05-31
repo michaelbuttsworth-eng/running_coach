@@ -1,9 +1,16 @@
 {
-  "raised": 20831,
+  "raised": 21015,
   "goal": 20000,
-  "donors": 136,
+  "donors": 137,
   "last_updated": "2026-05-31",
   "recent_donors": [
+    {
+      "date": "2026-05-31 20:43:12",
+      "amount": 18377,
+      "amount_display": "$184",
+      "name": "Bathurst Roadrunners",
+      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
+    },
     {
       "date": "2026-05-31 20:36:12",
       "amount": 3387,
@@ -12,53 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-05-31 20:12:42",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Dawn  Comerford",
-      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
-    },
-    {
-      "date": "2026-01-15 20:30:17",
+      "date": "2026-02-02 17:51:36",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Chris & Ann-Maree McIntyre",
-      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "name": "Emma Robinson",
+      "message": "Well done boys"
     },
     {
-      "date": "2026-03-19 17:56:51",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Lyn McCumstie",
+      "date": "2026-03-22 08:52:10",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Bestie and Henry Cadalt",
+      "message": "Good Luck Boys! Bestie and Henry!"
+    },
+    {
+      "date": "2026-03-14 10:37:00",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Danielle & Warwick Campbell",
+      "message": "What an amazing, awesome and selfless thing to do"
+    },
+    {
+      "date": "2026-05-17 20:18:02",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jodi  Culnane",
+      "message": "You guys are amazing!!!"
+    },
+    {
+      "date": "2026-05-27 15:46:57",
+      "amount": 4000,
+      "amount_display": "$40",
+      "name": "Di Sams",
       "message": "Good luck boys"
     },
     {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
-    },
-    {
-      "date": "2026-05-17 10:55:27",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jen Rowston",
-      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
-    },
-    {
-      "date": "2026-05-26 20:54:39",
-      "amount": 52900,
-      "amount_display": "$529",
-      "name": "BLATCH QUALITY SMASH REPAIRS",
-      "message": "Such a great cause guys - well done and enjoy x"
-    },
-    {
-      "date": "2026-05-31 19:33:57",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Kevin Walker",
-      "message": "All the best boys! Bx Roadrunners wishing you well!"
+      "date": "2026-05-31 19:39:01",
+      "amount": 75000,
+      "amount_display": "$750",
+      "name": "Tim Booth",
+      "message": "Awesome words lads"
     }
   ]
 }
