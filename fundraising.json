@@ -1,9 +1,16 @@
 {
   "raised": 21069,
   "goal": 20000,
-  "donors": 138,
+  "donors": 139,
   "last_updated": "2026-06-01",
   "recent_donors": [
+    {
+      "date": "2026-06-01 07:08:24",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Demi Webber",
+      "message": "Yayyy! Congrats boys, super excited for you! See you at the finish line \ud83d\udc9b\ud83d\udc9b\ud83d\udc9b Love the webbers xxxxx"
+    },
     {
       "date": "2026-05-31 21:01:24",
       "amount": 5484,
@@ -12,39 +19,11 @@
       "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
     },
     {
-      "date": "2026-05-31 20:43:12",
-      "amount": 18377,
-      "amount_display": "$184",
-      "name": "Bathurst Roadrunners",
-      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
-    },
-    {
-      "date": "2026-04-30 07:36:30",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Ros",
-      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
-    },
-    {
-      "date": "2026-02-28 08:31:59",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jeremy Sheader",
-      "message": "This is awesome"
-    },
-    {
-      "date": "2026-04-18 16:43:36",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "LUKE A HACKETT",
-      "message": "Good luck Guys, Have fun great cause."
-    },
-    {
-      "date": "2026-01-13 08:57:29",
-      "amount": 52750,
-      "amount_display": "$528",
-      "name": "Darren Sinclair",
-      "message": "Great work Ethan. Good luck to you and Austin"
+      "date": "2026-05-25 20:15:05",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Niel & Renee Howard",
+      "message": "So proud! See you all at the finish line."
     },
     {
       "date": "2026-02-06 09:50:22",
@@ -54,11 +33,32 @@
       "message": "Sending each of you more strength, more resilience\u2026\u2026 each of you already has the determination to succeed & belief that this cause will make a difference to countless others and it will!! \ud83c\udf40\ud83c\udf40\ud83c\udf40"
     },
     {
+      "date": "2026-05-02 15:43:33",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "The shaun edition",
+      "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
+    },
+    {
       "date": "2026-05-25 15:26:52",
       "amount": 5000,
       "amount_display": "$50",
       "name": "Sophie Felsch",
       "message": "\ud83d\udc9b"
+    },
+    {
+      "date": "2026-01-22 21:50:15",
+      "amount": 8025,
+      "amount_display": "$80",
+      "name": "Lisa Smith (Powell)",
+      "message": "Good luck!!!"
+    },
+    {
+      "date": "2026-04-20 10:25:28",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Rod Lorimer",
+      "message": "Well done boys"
     }
   ]
 }
