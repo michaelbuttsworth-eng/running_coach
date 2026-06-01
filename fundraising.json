@@ -1,9 +1,16 @@
 {
-  "raised": 23134,
+  "raised": 23189,
   "goal": 20000,
-  "donors": 152,
+  "donors": 153,
   "last_updated": "2026-06-01",
   "recent_donors": [
+    {
+      "date": "2026-06-01 18:08:25",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The Cullen\u2019s",
+      "message": "Thanks for doing this to help others to overcome the black dog."
+    },
     {
       "date": "2026-06-01 17:33:45",
       "amount": 10612,
@@ -12,11 +19,11 @@
       "message": ""
     },
     {
-      "date": "2026-06-01 17:30:20",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Roslyn King",
-      "message": "Well Done Boys. Such a great cause"
+      "date": "2026-01-13 08:57:29",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Darren Sinclair",
+      "message": "Great work Ethan. Good luck to you and Austin"
     },
     {
       "date": "2026-01-13 21:19:04",
@@ -26,13 +33,6 @@
       "message": "A huge commitment to support such an important cause. We\u2019re right behind you!"
     },
     {
-      "date": "2026-05-30 14:42:31",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Heather Lamberton",
-      "message": "Best of luck Ethan & Austin."
-    },
-    {
       "date": "2026-01-13 08:53:26",
       "amount": 5412,
       "amount_display": "$54",
@@ -40,25 +40,25 @@
       "message": "Caples Cl represent \ud83e\udee1"
     },
     {
-      "date": "2026-05-25 20:15:05",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Niel & Renee Howard",
-      "message": "So proud! See you all at the finish line."
+      "date": "2026-05-31 20:12:42",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Dawn  Comerford",
+      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
     },
     {
-      "date": "2026-05-30 06:05:41",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tania  Collins",
-      "message": "Goodluck guys what an amazing job you all are doing"
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
     },
     {
-      "date": "2026-05-03 10:39:16",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "James Worthington",
-      "message": "I love Buttsy"
+      "date": "2026-02-26 07:05:06",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Fiona Halloway",
+      "message": "So proud of you guys"
     }
   ]
 }
