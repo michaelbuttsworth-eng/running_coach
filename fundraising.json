@@ -1,50 +1,57 @@
 {
   "raised": 21516,
   "goal": 20000,
-  "donors": 141,
+  "donors": 143,
   "last_updated": "2026-06-01",
   "recent_donors": [
     {
-      "date": "2026-06-01 09:51:51",
-      "amount": 12500,
-      "amount_display": "$125",
-      "name": "Craig Gibson",
-      "message": "Well done boys, fantastic effort. Cheers Gibbo"
+      "date": "2026-06-01 10:53:16",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Steven Cateris",
+      "message": "I heard the interview with you on the Mornings with Mark Levy program on 1 June 2026. Best of luck!"
     },
     {
-      "date": "2026-06-01 09:51:13",
+      "date": "2026-06-01 10:50:08",
       "amount": 21500,
       "amount_display": "$215",
-      "name": "Altech Air - Lavelle Family",
-      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
+      "name": "Karen Buttsworth",
+      "message": "Very proud of you boys"
     },
     {
-      "date": "2026-05-26 20:54:39",
-      "amount": 52900,
-      "amount_display": "$529",
-      "name": "BLATCH QUALITY SMASH REPAIRS",
-      "message": "Such a great cause guys - well done and enjoy x"
+      "date": "2026-04-27 13:09:50",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jack Van Der Velden",
+      "message": "Best of luck I know you will do yourselves proud"
     },
     {
-      "date": "2026-02-20 11:20:26",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Izzy Jacobson",
-      "message": "Unbelievably proud of you boys \ud83d\udc99"
+      "date": "2026-04-23 20:26:06",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Archie",
+      "message": "Making him proud bro \u2764\ufe0f"
     },
     {
-      "date": "2026-05-06 10:26:59",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Dejorja & co",
-      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+      "date": "2026-01-13 08:57:29",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Darren Sinclair",
+      "message": "Great work Ethan. Good luck to you and Austin"
     },
     {
-      "date": "2026-05-26 08:38:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Kyle and Immy",
-      "message": "Smash it boys!"
+      "date": "2026-01-12 23:15:13",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+    },
+    {
+      "date": "2026-01-12 21:36:50",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Cross",
+      "message": "You\u2019ve got this, support all the way"
     },
     {
       "date": "2026-02-02 17:51:36",
@@ -52,13 +59,6 @@
       "amount_display": "$54",
       "name": "Emma Robinson",
       "message": "Well done boys"
-    },
-    {
-      "date": "2026-04-23 13:40:17",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Anonymous",
-      "message": "Know that Will is beside you"
     }
   ]
 }
