@@ -1,21 +1,21 @@
 {
-  "raised": 22921,
+  "raised": 22976,
   "goal": 20000,
-  "donors": 148,
+  "donors": 149,
   "last_updated": "2026-06-01",
   "recent_donors": [
+    {
+      "date": "2026-06-01 15:47:58",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Eve Bathurst",
+      "message": "Good luck team!"
+    },
     {
       "date": "2026-06-01 12:10:58",
       "amount": 2843,
       "amount_display": "$28",
       "name": "Kirilee Scott",
-      "message": ""
-    },
-    {
-      "date": "2026-06-01 12:06:21",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Jodie Weekes",
       "message": ""
     },
     {
