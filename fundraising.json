@@ -1,22 +1,22 @@
 {
   "raised": 23257,
   "goal": 20000,
-  "donors": 155,
+  "donors": 156,
   "last_updated": "2026-06-02",
   "recent_donors": [
+    {
+      "date": "2026-06-02 09:44:55",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Glenn Trapp",
+      "message": ""
+    },
     {
       "date": "2026-06-01 22:21:18",
       "amount": 5000,
       "amount_display": "$50",
       "name": "Nikki, Nick, Vinnie and Tommy Press",
       "message": "Good on you lads! \ud83d\ude4c\ud83c\udffc"
-    },
-    {
-      "date": "2026-06-01 21:27:03",
-      "amount": 1766,
-      "amount_display": "$18",
-      "name": "Luke McGill",
-      "message": ""
     },
     {
       "date": "2026-03-12 13:53:26",
