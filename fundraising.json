@@ -1,21 +1,21 @@
 {
   "raised": 23918,
   "goal": 20000,
-  "donors": 167,
+  "donors": 168,
   "last_updated": "2026-06-02",
   "recent_donors": [
+    {
+      "date": "2026-06-02 20:28:06",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jill",
+      "message": "Good luck"
+    },
     {
       "date": "2026-06-02 19:13:00",
       "amount": 2000,
       "amount_display": "$20",
       "name": "Madison Hatch",
-      "message": ""
-    },
-    {
-      "date": "2026-06-02 18:41:43",
-      "amount": 1180,
-      "amount_display": "$12",
-      "name": "Jack Macleod",
       "message": ""
     },
     {
