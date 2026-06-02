@@ -1,22 +1,22 @@
 {
-  "raised": 25752,
+  "raised": 25807,
   "goal": 20000,
-  "donors": 173,
+  "donors": 174,
   "last_updated": "2026-06-03",
   "recent_donors": [
+    {
+      "date": "2026-06-03 08:55:59",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Lauren Perry",
+      "message": "Awesome effort lads, great cause, welldone!"
+    },
     {
       "date": "2026-06-03 06:48:39",
       "amount": 154000,
       "amount_display": "$1,540",
       "name": "JAX Tyres & Auto Orange",
       "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
-    },
-    {
-      "date": "2026-06-02 23:00:38",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Emily Harrington",
-      "message": "Thank you for what you\u2019re doing - incredible achievement"
     },
     {
       "date": "2026-01-12 23:15:13",
@@ -26,18 +26,18 @@
       "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     },
     {
-      "date": "2026-03-22 08:52:10",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Bestie and Henry Cadalt",
-      "message": "Good Luck Boys! Bestie and Henry!"
+      "date": "2026-05-11 17:09:51",
+      "amount": 8607,
+      "amount_display": "$86",
+      "name": "Anonymous",
+      "message": "Well done mate, hope you achieve your goal"
     },
     {
-      "date": "2026-01-13 08:53:26",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Tom",
-      "message": "Caples Cl represent \ud83e\udee1"
+      "date": "2026-02-20 11:20:26",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Izzy Jacobson",
+      "message": "Unbelievably proud of you boys \ud83d\udc99"
     },
     {
       "date": "2026-01-12 21:36:50",
@@ -47,18 +47,18 @@
       "message": "You\u2019ve got this, support all the way"
     },
     {
-      "date": "2026-04-16 16:10:50",
-      "amount": 2000,
-      "amount_display": "$20",
-      "name": "Cheryl Mitford",
-      "message": "Lets look after our mates"
+      "date": "2026-04-27 13:09:50",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jack Van Der Velden",
+      "message": "Best of luck I know you will do yourselves proud"
     },
     {
-      "date": "2026-05-25 15:26:52",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Sophie Felsch",
-      "message": "\ud83d\udc9b"
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
     }
   ]
 }
