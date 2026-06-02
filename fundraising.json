@@ -2,7 +2,7 @@
   "raised": 24212,
   "goal": 20000,
   "donors": 172,
-  "last_updated": "2026-06-02",
+  "last_updated": "2026-06-03",
   "recent_donors": [
     {
       "date": "2026-06-02 23:00:38",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-01-13 21:19:04",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Steve and meg",
-      "message": "A huge commitment to support such an important cause. We\u2019re right behind you!"
+      "date": "2026-01-12 23:15:13",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     },
     {
-      "date": "2026-02-12 16:17:02",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Steele and Co Law and Conveyancing",
-      "message": "Well done, great cause"
+      "date": "2026-03-22 08:52:10",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Bestie and Henry Cadalt",
+      "message": "Good Luck Boys! Bestie and Henry!"
     },
     {
-      "date": "2026-05-30 15:17:15",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "Sam Farraway",
-      "message": "Good luck boys! Very worthy cause."
+      "date": "2026-01-13 08:53:26",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Tom",
+      "message": "Caples Cl represent \ud83e\udee1"
     },
     {
-      "date": "2026-06-01 17:30:20",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Roslyn King",
-      "message": "Well Done Boys. Such a great cause"
+      "date": "2026-01-12 21:36:50",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Cross",
+      "message": "You\u2019ve got this, support all the way"
     },
     {
-      "date": "2026-05-30 17:37:25",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Anna Hugh & Roy Thomas",
-      "message": "Great work boys such a worthwhile cause"
+      "date": "2026-04-16 16:10:50",
+      "amount": 2000,
+      "amount_display": "$20",
+      "name": "Cheryl Mitford",
+      "message": "Lets look after our mates"
     },
     {
-      "date": "2026-02-26 07:05:06",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Fiona Halloway",
-      "message": "So proud of you guys"
+      "date": "2026-05-25 15:26:52",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Sophie Felsch",
+      "message": "\ud83d\udc9b"
     }
   ]
 }
