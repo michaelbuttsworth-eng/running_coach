@@ -1,21 +1,21 @@
 {
-  "raised": 23757,
+  "raised": 23867,
   "goal": 20000,
-  "donors": 162,
+  "donors": 164,
   "last_updated": "2026-06-02",
   "recent_donors": [
     {
-      "date": "2026-06-02 15:03:28",
+      "date": "2026-06-02 16:40:36",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Teoni Schleibs & Jackson Dusan",
+      "name": "Thomas Mcintosh",
       "message": ""
     },
     {
-      "date": "2026-06-02 12:49:24",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Nicole Howard",
+      "date": "2026-06-02 16:39:28",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jack Lynch",
       "message": ""
     },
     {
