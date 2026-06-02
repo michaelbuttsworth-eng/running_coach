@@ -1,9 +1,16 @@
 {
   "raised": 23311,
   "goal": 20000,
-  "donors": 156,
+  "donors": 157,
   "last_updated": "2026-06-02",
   "recent_donors": [
+    {
+      "date": "2026-06-02 11:19:59",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Cheynoah Amone",
+      "message": ""
+    },
     {
       "date": "2026-06-02 09:44:55",
       "amount": 5484,
@@ -12,53 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-06-01 22:21:18",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Nikki, Nick, Vinnie and Tommy Press",
-      "message": "Good on you lads! \ud83d\ude4c\ud83c\udffc"
-    },
-    {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
-    },
-    {
-      "date": "2026-02-05 14:19:32",
+      "date": "2026-01-12 21:22:41",
       "amount": 21100,
       "amount_display": "$211",
-      "name": "Kel & Dave Dunbar xx",
-      "message": "You guys are amazing\ud83d\ude4c\ud83c\udffc\ud83d\udc4a\ud83c\udffc\ud83e\udd70"
+      "name": "Jodie C",
+      "message": "So proud of you!"
     },
     {
-      "date": "2026-05-02 15:43:33",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "The shaun edition",
-      "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
+      "date": "2026-02-03 21:32:36",
+      "amount": 1141,
+      "amount_display": "$11",
+      "name": "Liz Evans",
+      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
     },
     {
-      "date": "2026-03-22 08:52:10",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Bestie and Henry Cadalt",
-      "message": "Good Luck Boys! Bestie and Henry!"
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
     },
     {
-      "date": "2026-06-01 07:08:24",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Demi Webber",
-      "message": "Yayyy! Congrats boys, super excited for you! See you at the finish line \ud83d\udc9b\ud83d\udc9b\ud83d\udc9b Love the webbers xxxxx"
-    },
-    {
-      "date": "2026-03-19 16:48:50",
+      "date": "2026-03-19 17:56:51",
       "amount": 5000,
       "amount_display": "$50",
-      "name": "Jann McDowell",
-      "message": "Good work"
+      "name": "Lyn McCumstie",
+      "message": "Good luck boys"
+    },
+    {
+      "date": "2026-02-21 14:45:11",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Joey Blackie",
+      "message": "Good luck boys"
+    },
+    {
+      "date": "2026-05-15 20:46:02",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Lorette and David Sams",
+      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     }
   ]
 }
