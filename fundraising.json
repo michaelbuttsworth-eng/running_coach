@@ -1,22 +1,22 @@
 {
-  "raised": 24212,
+  "raised": 25752,
   "goal": 20000,
-  "donors": 172,
+  "donors": 173,
   "last_updated": "2026-06-03",
   "recent_donors": [
+    {
+      "date": "2026-06-03 06:48:39",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "JAX Tyres & Auto Orange",
+      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
+    },
     {
       "date": "2026-06-02 23:00:38",
       "amount": 2350,
       "amount_display": "$24",
       "name": "Emily Harrington",
       "message": "Thank you for what you\u2019re doing - incredible achievement"
-    },
-    {
-      "date": "2026-06-02 22:40:41",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Karen Tutton",
-      "message": ""
     },
     {
       "date": "2026-01-12 23:15:13",
