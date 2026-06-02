@@ -1,9 +1,16 @@
 {
-  "raised": 23602,
+  "raised": 23702,
   "goal": 20000,
-  "donors": 160,
+  "donors": 161,
   "last_updated": "2026-06-02",
   "recent_donors": [
+    {
+      "date": "2026-06-02 12:49:24",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Nicole Howard",
+      "message": ""
+    },
     {
       "date": "2026-06-02 11:53:19",
       "amount": 10612,
@@ -12,32 +19,25 @@
       "message": "Sensational effort boys!!"
     },
     {
-      "date": "2026-06-02 11:40:06",
-      "amount": 8000,
-      "amount_display": "$80",
-      "name": "Ian  Webb",
-      "message": "Best of luck boys."
+      "date": "2026-05-30 11:42:32",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Gina Davis",
+      "message": "Well done and good luck boys. Davo and Gina."
     },
     {
-      "date": "2026-01-12 21:22:41",
-      "amount": 21100,
-      "amount_display": "$211",
-      "name": "Jodie C",
-      "message": "So proud of you!"
+      "date": "2026-03-22 08:52:10",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Bestie and Henry Cadalt",
+      "message": "Good Luck Boys! Bestie and Henry!"
     },
     {
-      "date": "2026-02-03 21:32:36",
-      "amount": 1141,
-      "amount_display": "$11",
-      "name": "Liz Evans",
-      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
-    },
-    {
-      "date": "2026-02-12 16:17:02",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Steele and Co Law and Conveyancing",
-      "message": "Well done, great cause"
+      "date": "2026-04-30 07:36:30",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
     },
     {
       "date": "2026-03-19 17:56:51",
@@ -54,11 +54,11 @@
       "message": "Good luck boys"
     },
     {
-      "date": "2026-05-15 20:46:02",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-05-28 10:22:27",
+      "amount": 26725,
+      "amount_display": "$267",
+      "name": "Geordie Larkin",
+      "message": "Into it boys \ud83e\udee1"
     }
   ]
 }
