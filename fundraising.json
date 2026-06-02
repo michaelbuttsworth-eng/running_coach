@@ -1,21 +1,21 @@
 {
-  "raised": 23867,
+  "raised": 23887,
   "goal": 20000,
-  "donors": 164,
+  "donors": 165,
   "last_updated": "2026-06-02",
   "recent_donors": [
+    {
+      "date": "2026-06-02 17:56:14",
+      "amount": 2000,
+      "amount_display": "$20",
+      "name": "Alice Wood",
+      "message": ""
+    },
     {
       "date": "2026-06-02 16:40:36",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Thomas Mcintosh",
-      "message": ""
-    },
-    {
-      "date": "2026-06-02 16:39:28",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jack Lynch",
       "message": ""
     },
     {
