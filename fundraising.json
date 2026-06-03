@@ -1,21 +1,21 @@
 {
-  "raised": 26391,
+  "raised": 26552,
   "goal": 20000,
-  "donors": 180,
+  "donors": 184,
   "last_updated": "2026-06-03",
   "recent_donors": [
     {
-      "date": "2026-06-03 15:18:54",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Tonedog",
-      "message": "Well done Isaac, Ethan and team"
+      "date": "2026-06-03 18:32:04",
+      "amount": 5364,
+      "amount_display": "$54",
+      "name": "Grace  Carroll",
+      "message": ""
     },
     {
-      "date": "2026-06-03 12:27:40",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Margaret Harris",
+      "date": "2026-06-03 18:27:00",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Indi Toole",
       "message": ""
     },
     {
@@ -26,11 +26,11 @@
       "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     },
     {
-      "date": "2026-05-08 21:20:52",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "Andrew Toole",
-      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
+      "date": "2026-05-15 20:46:02",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Lorette and David Sams",
+      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
       "date": "2026-01-12 19:01:42",
@@ -40,25 +40,25 @@
       "message": "Smash it bruz"
     },
     {
-      "date": "2026-05-29 12:48:25",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Tam & Ben Stuart",
-      "message": "Such a worthy cause. Go boys!!"
+      "date": "2026-05-30 10:22:38",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Mel Dennis",
+      "message": "What a great cause! All the best guys !"
     },
     {
-      "date": "2026-03-19 16:48:50",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Jann McDowell",
-      "message": "Good work"
+      "date": "2026-03-22 08:52:10",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Bestie and Henry Cadalt",
+      "message": "Good Luck Boys! Bestie and Henry!"
     },
     {
-      "date": "2026-05-15 20:46:02",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-05-17 20:18:02",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jodi  Culnane",
+      "message": "You guys are amazing!!!"
     }
   ]
 }
