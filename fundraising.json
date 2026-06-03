@@ -1,29 +1,29 @@
 {
-  "raised": 26074,
+  "raised": 26129,
   "goal": 20000,
-  "donors": 177,
+  "donors": 179,
   "last_updated": "2026-06-03",
   "recent_donors": [
     {
-      "date": "2026-06-03 11:24:08",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jacob  Roffe",
+      "date": "2026-06-03 12:27:40",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Margaret Harris",
       "message": ""
     },
     {
-      "date": "2026-06-03 10:17:06",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Mark, Kylie, Fletch & Seth Norris",
-      "message": "Goodluck boys\u2026fantastic effort!"
-    },
-    {
-      "date": "2026-05-31 21:01:24",
+      "date": "2026-06-03 12:22:21",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "The O\u2019Mally\u2019s",
-      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
+      "name": "Janelle Shaw",
+      "message": "Great effort for a great cause! \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+      "date": "2026-06-01 07:08:24",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Demi Webber",
+      "message": "Yayyy! Congrats boys, super excited for you! See you at the finish line \ud83d\udc9b\ud83d\udc9b\ud83d\udc9b Love the webbers xxxxx"
     },
     {
       "date": "2026-05-29 11:25:51",
@@ -33,32 +33,32 @@
       "message": "Hope you achieve your goal \ud83d\ude4f"
     },
     {
-      "date": "2026-02-02 22:33:01",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Noah & Kate Wilkinson",
-      "message": "Goodluck Boys \ud83c\udf1f"
+      "date": "2026-05-11 17:09:51",
+      "amount": 8607,
+      "amount_display": "$86",
+      "name": "Anonymous",
+      "message": "Well done mate, hope you achieve your goal"
     },
     {
-      "date": "2026-05-17 20:18:02",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jodi  Culnane",
-      "message": "You guys are amazing!!!"
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
     },
     {
-      "date": "2026-03-05 20:28:42",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Rochelle and Clint Mutton",
-      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
+      "date": "2026-05-27 15:46:57",
+      "amount": 4000,
+      "amount_display": "$40",
+      "name": "Di Sams",
+      "message": "Good luck boys"
     },
     {
-      "date": "2026-05-17 10:55:27",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jen Rowston",
-      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
+      "date": "2026-01-12 21:22:41",
+      "amount": 21100,
+      "amount_display": "$211",
+      "name": "Jodie C",
+      "message": "So proud of you!"
     }
   ]
 }
