@@ -2,7 +2,7 @@
   "raised": 26869,
   "goal": 20000,
   "donors": 187,
-  "last_updated": "2026-06-03",
+  "last_updated": "2026-06-04",
   "recent_donors": [
     {
       "date": "2026-06-03 21:34:08",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-01-12 23:15:13",
+      "date": "2026-05-24 19:32:35",
+      "amount": 10372,
+      "amount_display": "$104",
+      "name": "Lan Cam Connor Brown",
+      "message": "Wishing you all the best mate x go well"
+    },
+    {
+      "date": "2026-05-02 15:43:33",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "The shaun edition",
+      "message": "Doing us all proud \ud83d\udc4f\ud83c\udffb"
+    },
+    {
+      "date": "2026-01-13 10:07:16",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+      "name": "Hannah Baxter",
+      "message": "Coming up to four years too long\u2026 thank you for doing this!"
     },
     {
-      "date": "2026-05-15 20:46:02",
+      "date": "2026-06-02 23:00:38",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Emily Harrington",
+      "message": "Thank you for what you\u2019re doing - incredible achievement"
+    },
+    {
+      "date": "2026-05-30 17:37:25",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Lorette and David Sams",
-      "message": "Wishing the whole team a great run \ud83d\udc4f\ud83d\udc4f\ud83d\udc4fStay safe \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "name": "Anna Hugh & Roy Thomas",
+      "message": "Great work boys such a worthwhile cause"
     },
     {
-      "date": "2026-01-12 19:01:42",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Aaron Jones",
-      "message": "Smash it bruz"
-    },
-    {
-      "date": "2026-05-30 10:22:38",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Mel Dennis",
-      "message": "What a great cause! All the best guys !"
-    },
-    {
-      "date": "2026-03-22 08:52:10",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Bestie and Henry Cadalt",
-      "message": "Good Luck Boys! Bestie and Henry!"
-    },
-    {
-      "date": "2026-05-17 20:18:02",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jodi  Culnane",
-      "message": "You guys are amazing!!!"
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     }
   ]
 }
