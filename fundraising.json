@@ -1,64 +1,64 @@
 {
-  "raised": 25807,
+  "raised": 25968,
   "goal": 20000,
-  "donors": 174,
+  "donors": 176,
   "last_updated": "2026-06-03",
   "recent_donors": [
     {
-      "date": "2026-06-03 08:55:59",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Lauren Perry",
-      "message": "Awesome effort lads, great cause, welldone!"
-    },
-    {
-      "date": "2026-06-03 06:48:39",
-      "amount": 154000,
-      "amount_display": "$1,540",
-      "name": "JAX Tyres & Auto Orange",
-      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
-    },
-    {
-      "date": "2026-01-12 23:15:13",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
-    },
-    {
-      "date": "2026-05-11 17:09:51",
-      "amount": 8607,
-      "amount_display": "$86",
-      "name": "Anonymous",
-      "message": "Well done mate, hope you achieve your goal"
-    },
-    {
-      "date": "2026-02-20 11:20:26",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Izzy Jacobson",
-      "message": "Unbelievably proud of you boys \ud83d\udc99"
-    },
-    {
-      "date": "2026-01-12 21:36:50",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Cross",
-      "message": "You\u2019ve got this, support all the way"
-    },
-    {
-      "date": "2026-04-27 13:09:50",
+      "date": "2026-06-03 10:17:06",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Jack Van Der Velden",
-      "message": "Best of luck I know you will do yourselves proud"
+      "name": "Mark, Kylie, Fletch & Seth Norris",
+      "message": "Goodluck boys\u2026fantastic effort!"
     },
     {
-      "date": "2026-02-12 16:17:02",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Steele and Co Law and Conveyancing",
-      "message": "Well done, great cause"
+      "date": "2026-06-03 10:08:34",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Liv",
+      "message": ""
+    },
+    {
+      "date": "2026-05-31 21:01:24",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The O\u2019Mally\u2019s",
+      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
+    },
+    {
+      "date": "2026-05-29 11:25:51",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "Margaret Sharkey",
+      "message": "Hope you achieve your goal \ud83d\ude4f"
+    },
+    {
+      "date": "2026-02-02 22:33:01",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Noah & Kate Wilkinson",
+      "message": "Goodluck Boys \ud83c\udf1f"
+    },
+    {
+      "date": "2026-05-17 20:18:02",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jodi  Culnane",
+      "message": "You guys are amazing!!!"
+    },
+    {
+      "date": "2026-03-05 20:28:42",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Rochelle and Clint Mutton",
+      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
+    },
+    {
+      "date": "2026-05-17 10:55:27",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jen Rowston",
+      "message": "You are a hero! Thank you for your massive efforts, and generosity with your time!"
     }
   ]
 }
