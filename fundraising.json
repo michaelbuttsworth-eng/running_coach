@@ -1,21 +1,21 @@
 {
-  "raised": 26814,
+  "raised": 26869,
   "goal": 20000,
-  "donors": 186,
+  "donors": 187,
   "last_updated": "2026-06-03",
   "recent_donors": [
+    {
+      "date": "2026-06-03 21:34:08",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Anonymous",
+      "message": ""
+    },
     {
       "date": "2026-06-03 20:01:22",
       "amount": 4471,
       "amount_display": "$45",
       "name": "Therese and Darren",
-      "message": ""
-    },
-    {
-      "date": "2026-06-03 19:44:19",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Karen Sutton",
       "message": ""
     },
     {
