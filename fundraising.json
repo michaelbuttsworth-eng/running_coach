@@ -1,22 +1,22 @@
 {
-  "raised": 25968,
+  "raised": 26074,
   "goal": 20000,
-  "donors": 176,
+  "donors": 177,
   "last_updated": "2026-06-03",
   "recent_donors": [
+    {
+      "date": "2026-06-03 11:24:08",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jacob  Roffe",
+      "message": ""
+    },
     {
       "date": "2026-06-03 10:17:06",
       "amount": 10612,
       "amount_display": "$106",
       "name": "Mark, Kylie, Fletch & Seth Norris",
       "message": "Goodluck boys\u2026fantastic effort!"
-    },
-    {
-      "date": "2026-06-03 10:08:34",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Liv",
-      "message": ""
     },
     {
       "date": "2026-05-31 21:01:24",
