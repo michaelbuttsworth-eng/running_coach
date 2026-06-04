@@ -1,22 +1,22 @@
 {
   "raised": 26979,
   "goal": 20000,
-  "donors": 189,
+  "donors": 190,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 10:04:18",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Thomson Wealth",
+      "message": ""
+    },
     {
       "date": "2026-06-04 08:07:27",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Flynn Waddell",
       "message": "Keep it up boys. All backing you"
-    },
-    {
-      "date": "2026-06-04 07:55:28",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Bromhead\u2019s",
-      "message": ""
     },
     {
       "date": "2026-05-24 19:32:35",
