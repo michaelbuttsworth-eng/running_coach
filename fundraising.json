@@ -1,22 +1,22 @@
 {
   "raised": 28267,
   "goal": 20000,
-  "donors": 202,
+  "donors": 203,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 19:37:38",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jeanette Cranney",
+      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
+    },
     {
       "date": "2026-06-04 19:26:30",
       "amount": 25000,
       "amount_display": "$250",
       "name": "Central West Plumbing & Gasfitting",
       "message": "Careful of them chair's"
-    },
-    {
-      "date": "2026-06-04 18:45:15",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Brett, Annalea, Millie & Jedd Davies",
-      "message": ""
     },
     {
       "date": "2026-05-27 15:46:57",
