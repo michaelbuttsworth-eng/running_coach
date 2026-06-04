@@ -1,9 +1,16 @@
 {
-  "raised": 28267,
+  "raised": 28402,
   "goal": 20000,
-  "donors": 203,
+  "donors": 204,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 19:46:09",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Lisa Morrissey",
+      "message": "Amazing effort guys."
+    },
     {
       "date": "2026-06-04 19:37:38",
       "amount": 10612,
@@ -12,18 +19,11 @@
       "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
     },
     {
-      "date": "2026-06-04 19:26:30",
-      "amount": 25000,
-      "amount_display": "$250",
-      "name": "Central West Plumbing & Gasfitting",
-      "message": "Careful of them chair's"
-    },
-    {
-      "date": "2026-05-27 15:46:57",
-      "amount": 4000,
-      "amount_display": "$40",
-      "name": "Di Sams",
-      "message": "Good luck boys"
+      "date": "2026-05-28 10:22:27",
+      "amount": 26725,
+      "amount_display": "$267",
+      "name": "Geordie Larkin",
+      "message": "Into it boys \ud83e\udee1"
     },
     {
       "date": "2026-04-04 20:26:08",
@@ -40,25 +40,25 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-01 09:51:51",
-      "amount": 12500,
-      "amount_display": "$125",
-      "name": "Craig Gibson",
-      "message": "Well done boys, fantastic effort. Cheers Gibbo"
+      "date": "2026-06-01 10:50:08",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Karen Buttsworth",
+      "message": "Very proud of you boys"
     },
     {
-      "date": "2026-06-01 11:55:38",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Scott  Kauter",
-      "message": "Well done lads!"
+      "date": "2026-06-01 15:47:58",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Eve Bathurst",
+      "message": "Good luck team!"
     },
     {
-      "date": "2026-01-12 21:36:50",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Cross",
-      "message": "You\u2019ve got this, support all the way"
+      "date": "2026-04-23 13:40:17",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Anonymous",
+      "message": "Know that Will is beside you"
     }
   ]
 }
