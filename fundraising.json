@@ -1,22 +1,22 @@
 {
-  "raised": 27318,
+  "raised": 27373,
   "goal": 20000,
-  "donors": 194,
+  "donors": 195,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 14:39:45",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Josie",
+      "message": ""
+    },
     {
       "date": "2026-06-04 11:26:22",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Denzil Begley",
       "message": "Pick up the pace x"
-    },
-    {
-      "date": "2026-06-04 10:42:36",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Claire",
-      "message": ""
     },
     {
       "date": "2026-05-25 20:15:05",
