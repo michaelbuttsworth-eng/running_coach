@@ -1,9 +1,16 @@
 {
-  "raised": 28638,
+  "raised": 28662,
   "goal": 20000,
-  "donors": 209,
+  "donors": 210,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 21:25:01",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Ellen",
+      "message": ""
+    },
     {
       "date": "2026-06-04 20:55:13",
       "amount": 5000,
@@ -12,18 +19,11 @@
       "message": ""
     },
     {
-      "date": "2026-06-04 20:54:31",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tony Fisher",
-      "message": "Great work lads and for such an important cause. Super proud of you all."
-    },
-    {
-      "date": "2026-05-06 10:26:59",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Dejorja & co",
-      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+      "date": "2026-05-08 16:47:30",
+      "amount": 104000,
+      "amount_display": "$1,040",
+      "name": "Anytime Fitness Bathurst",
+      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -33,18 +33,18 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-01 07:08:24",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Demi Webber",
-      "message": "Yayyy! Congrats boys, super excited for you! See you at the finish line \ud83d\udc9b\ud83d\udc9b\ud83d\udc9b Love the webbers xxxxx"
+      "date": "2026-06-01 09:51:13",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Altech Air - Lavelle Family",
+      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
     },
     {
-      "date": "2026-05-31 17:03:46",
-      "amount": 26725,
-      "amount_display": "$267",
-      "name": "Dani & Josh Scott",
-      "message": "Smash it out guys!"
+      "date": "2026-05-31 17:05:52",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Suz Wonson - Norford",
+      "message": "You guys are absolute legends!"
     },
     {
       "date": "2026-01-13 21:07:26",
@@ -54,11 +54,11 @@
       "message": "Go Ethan!"
     },
     {
-      "date": "2026-04-27 13:09:50",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jack Van Der Velden",
-      "message": "Best of luck I know you will do yourselves proud"
+      "date": "2026-04-30 07:36:30",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
     }
   ]
 }
