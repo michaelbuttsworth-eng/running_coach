@@ -1,9 +1,16 @@
 {
-  "raised": 28017,
+  "raised": 28267,
   "goal": 20000,
-  "donors": 201,
+  "donors": 202,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 19:26:30",
+      "amount": 25000,
+      "amount_display": "$250",
+      "name": "Central West Plumbing & Gasfitting",
+      "message": "Careful of them chair's"
+    },
     {
       "date": "2026-06-04 18:45:15",
       "amount": 21500,
@@ -12,25 +19,18 @@
       "message": ""
     },
     {
-      "date": "2026-06-04 17:42:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Turi Anderson",
-      "message": "Good work guys!"
+      "date": "2026-05-27 15:46:57",
+      "amount": 4000,
+      "amount_display": "$40",
+      "name": "Di Sams",
+      "message": "Good luck boys"
     },
     {
-      "date": "2026-05-26 20:54:39",
-      "amount": 52900,
-      "amount_display": "$529",
-      "name": "BLATCH QUALITY SMASH REPAIRS",
-      "message": "Such a great cause guys - well done and enjoy x"
-    },
-    {
-      "date": "2026-03-17 07:22:47",
-      "amount": 52750,
-      "amount_display": "$528",
-      "name": "Daz & El",
-      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+      "date": "2026-04-04 20:26:08",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Anonymous",
+      "message": "Great cause Ethan."
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -40,25 +40,25 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-01 09:51:13",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Altech Air - Lavelle Family",
-      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
+      "date": "2026-06-01 09:51:51",
+      "amount": 12500,
+      "amount_display": "$125",
+      "name": "Craig Gibson",
+      "message": "Well done boys, fantastic effort. Cheers Gibbo"
     },
     {
-      "date": "2026-06-01 10:53:16",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Steven Cateris",
-      "message": "I heard the interview with you on the Mornings with Mark Levy program on 1 June 2026. Best of luck!"
+      "date": "2026-06-01 11:55:38",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Scott  Kauter",
+      "message": "Well done lads!"
     },
     {
-      "date": "2026-04-23 13:40:17",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Anonymous",
-      "message": "Know that Will is beside you"
+      "date": "2026-01-12 21:36:50",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Cross",
+      "message": "You\u2019ve got this, support all the way"
     }
   ]
 }
