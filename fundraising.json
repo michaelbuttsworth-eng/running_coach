@@ -1,21 +1,21 @@
 {
-  "raised": 27534,
+  "raised": 27589,
   "goal": 20000,
-  "donors": 196,
+  "donors": 197,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 17:23:14",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Tillie Dunbar",
+      "message": "Well done boys! Nearly at the finish line! \ud83d\ude4c\ud83c\udffc"
+    },
     {
       "date": "2026-06-04 16:45:42",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Anonymous",
-      "message": ""
-    },
-    {
-      "date": "2026-06-04 14:39:45",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Josie",
       "message": ""
     },
     {
