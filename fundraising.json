@@ -1,36 +1,29 @@
 {
-  "raised": 28402,
+  "raised": 28533,
   "goal": 20000,
-  "donors": 204,
+  "donors": 207,
   "last_updated": "2026-06-04",
   "recent_donors": [
     {
-      "date": "2026-06-04 19:46:09",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Lisa Morrissey",
-      "message": "Amazing effort guys."
+      "date": "2026-06-04 20:25:03",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Eric pearce",
+      "message": ""
     },
     {
-      "date": "2026-06-04 19:37:38",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jeanette Cranney",
-      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
-    },
-    {
-      "date": "2026-05-28 10:22:27",
-      "amount": 26725,
-      "amount_display": "$267",
-      "name": "Geordie Larkin",
-      "message": "Into it boys \ud83e\udee1"
-    },
-    {
-      "date": "2026-04-04 20:26:08",
-      "amount": 5412,
+      "date": "2026-06-04 20:19:53",
+      "amount": 5364,
       "amount_display": "$54",
-      "name": "Anonymous",
-      "message": "Great cause Ethan."
+      "name": "Emma  Siejka",
+      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
+    },
+    {
+      "date": "2026-05-03 10:39:16",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "James Worthington",
+      "message": "I love Buttsy"
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -40,25 +33,32 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-01 10:50:08",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Karen Buttsworth",
-      "message": "Very proud of you boys"
-    },
-    {
-      "date": "2026-06-01 15:47:58",
+      "date": "2026-05-31 21:01:24",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Eve Bathurst",
-      "message": "Good luck team!"
+      "name": "The O\u2019Mally\u2019s",
+      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
     },
     {
-      "date": "2026-04-23 13:40:17",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Anonymous",
-      "message": "Know that Will is beside you"
+      "date": "2026-05-30 22:15:49",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Jack Mitchell",
+      "message": "Such an important message you\u2019re sending. Good luck guys!"
+    },
+    {
+      "date": "2026-01-13 21:07:26",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Linds & Nath",
+      "message": "Go Ethan!"
+    },
+    {
+      "date": "2026-04-23 20:26:06",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Archie",
+      "message": "Making him proud bro \u2764\ufe0f"
     }
   ]
 }
