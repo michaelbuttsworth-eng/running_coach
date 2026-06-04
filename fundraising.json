@@ -1,36 +1,36 @@
 {
-  "raised": 27589,
+  "raised": 27802,
   "goal": 20000,
-  "donors": 198,
+  "donors": 200,
   "last_updated": "2026-06-04",
   "recent_donors": [
     {
-      "date": "2026-06-04 17:37:38",
+      "date": "2026-06-04 17:42:58",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Elliott",
+      "name": "Turi Anderson",
+      "message": "Good work guys!"
+    },
+    {
+      "date": "2026-06-04 17:42:29",
+      "amount": 10372,
+      "amount_display": "$104",
+      "name": "Rosie S",
       "message": ""
     },
     {
-      "date": "2026-06-04 17:23:14",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tillie Dunbar",
-      "message": "Well done boys! Nearly at the finish line! \ud83d\ude4c\ud83c\udffc"
+      "date": "2026-05-26 20:54:39",
+      "amount": 52900,
+      "amount_display": "$529",
+      "name": "BLATCH QUALITY SMASH REPAIRS",
+      "message": "Such a great cause guys - well done and enjoy x"
     },
     {
-      "date": "2026-05-26 08:38:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Kyle and Immy",
-      "message": "Smash it boys!"
-    },
-    {
-      "date": "2026-04-04 20:26:08",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Anonymous",
-      "message": "Great cause Ethan."
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -40,25 +40,25 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-01 07:08:24",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Demi Webber",
-      "message": "Yayyy! Congrats boys, super excited for you! See you at the finish line \ud83d\udc9b\ud83d\udc9b\ud83d\udc9b Love the webbers xxxxx"
-    },
-    {
-      "date": "2026-06-01 10:50:08",
+      "date": "2026-06-01 09:51:13",
       "amount": 21500,
       "amount_display": "$215",
-      "name": "Karen Buttsworth",
-      "message": "Very proud of you boys"
+      "name": "Altech Air - Lavelle Family",
+      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
     },
     {
-      "date": "2026-06-03 12:22:21",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Janelle Shaw",
-      "message": "Great effort for a great cause! \ud83d\udc4d\ud83c\udffb"
+      "date": "2026-06-01 10:53:16",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Steven Cateris",
+      "message": "I heard the interview with you on the Mornings with Mark Levy program on 1 June 2026. Best of luck!"
+    },
+    {
+      "date": "2026-04-23 13:40:17",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Anonymous",
+      "message": "Know that Will is beside you"
     }
   ]
 }
