@@ -1,9 +1,16 @@
 {
-  "raised": 27057,
+  "raised": 27263,
   "goal": 20000,
-  "donors": 192,
+  "donors": 193,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 10:42:36",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Claire",
+      "message": ""
+    },
     {
       "date": "2026-06-04 10:30:20",
       "amount": 10000,
@@ -12,53 +19,46 @@
       "message": "Great work Ethan and team!"
     },
     {
-      "date": "2026-06-04 10:17:18",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Patrick  Fisher",
-      "message": "Well done boys! Great cause"
+      "date": "2026-05-25 15:26:52",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Sophie Felsch",
+      "message": "\ud83d\udc9b"
     },
     {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
-    },
-    {
-      "date": "2026-05-03 10:39:16",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "James Worthington",
-      "message": "I love Buttsy"
-    },
-    {
-      "date": "2026-01-13 10:07:16",
+      "date": "2026-04-04 20:26:08",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Hannah Baxter",
-      "message": "Coming up to four years too long\u2026 thank you for doing this!"
+      "name": "Anonymous",
+      "message": "Great cause Ethan."
     },
     {
-      "date": "2026-06-03 06:48:39",
-      "amount": 154000,
-      "amount_display": "$1,540",
-      "name": "JAX Tyres & Auto Orange",
-      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
-    },
-    {
-      "date": "2026-05-30 20:06:23",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Hal  Honess",
-      "message": "best of luck boys \ud83e\udd0d"
-    },
-    {
-      "date": "2026-01-13 21:07:26",
+      "date": "2026-01-13 11:10:30",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Linds & Nath",
-      "message": "Go Ethan!"
+      "name": "Bron Mitchell",
+      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+    },
+    {
+      "date": "2026-05-31 20:43:12",
+      "amount": 18377,
+      "amount_display": "$184",
+      "name": "Bathurst Roadrunners",
+      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
+    },
+    {
+      "date": "2026-06-01 09:51:13",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Altech Air - Lavelle Family",
+      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
+    },
+    {
+      "date": "2026-06-03 08:55:59",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Lauren Perry",
+      "message": "Awesome effort lads, great cause, welldone!"
     }
   ]
 }
