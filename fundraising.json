@@ -1,22 +1,22 @@
 {
-  "raised": 30202,
+  "raised": 30257,
   "goal": 20000,
-  "donors": 211,
+  "donors": 212,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 06:15:50",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "McD family",
+      "message": "Well done gents. Raising money and awareness at the same time."
+    },
     {
       "date": "2026-06-04 21:53:14",
       "amount": 154000,
       "amount_display": "$1,540",
       "name": "James Christie",
       "message": "Love what you all have done, such a massive feelongs that plenty of us men don't talk about. Big love boys, plenty of hard yards done \u2764\ufe0f\u2764\ufe0f"
-    },
-    {
-      "date": "2026-06-04 21:25:01",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Ellen",
-      "message": ""
     },
     {
       "date": "2026-04-18 16:43:36",
