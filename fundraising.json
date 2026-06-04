@@ -1,9 +1,16 @@
 {
   "raised": 30312,
   "goal": 20000,
-  "donors": 213,
+  "donors": 214,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 08:13:17",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Grandma Robyn",
+      "message": "Sending strength & love to the 3 of you\u2026. you\u2019re almost there, Boys! The whole of Australia is loving your efforts, definitely raising awareness!"
+    },
     {
       "date": "2026-06-05 07:56:45",
       "amount": 5484,
@@ -12,18 +19,11 @@
       "message": ""
     },
     {
-      "date": "2026-06-05 06:15:50",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "McD family",
-      "message": "Well done gents. Raising money and awareness at the same time."
-    },
-    {
-      "date": "2026-04-20 10:25:28",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Rod Lorimer",
-      "message": "Well done boys"
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
     },
     {
       "date": "2026-03-14 10:37:00",
@@ -33,32 +33,32 @@
       "message": "What an amazing, awesome and selfless thing to do"
     },
     {
-      "date": "2026-06-01 09:51:13",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Altech Air - Lavelle Family",
-      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
+      "date": "2026-06-01 09:51:51",
+      "amount": 12500,
+      "amount_display": "$125",
+      "name": "Craig Gibson",
+      "message": "Well done boys, fantastic effort. Cheers Gibbo"
     },
     {
-      "date": "2026-06-04 19:37:38",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jeanette Cranney",
-      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
+      "date": "2026-06-04 19:46:09",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Lisa Morrissey",
+      "message": "Amazing effort guys."
     },
     {
-      "date": "2026-06-01 15:47:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Eve Bathurst",
-      "message": "Good luck team!"
+      "date": "2026-06-01 17:30:20",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Roslyn King",
+      "message": "Well Done Boys. Such a great cause"
     },
     {
-      "date": "2026-03-22 08:52:10",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Bestie and Henry Cadalt",
-      "message": "Good Luck Boys! Bestie and Henry!"
+      "date": "2026-04-04 20:26:08",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Anonymous",
+      "message": "Great cause Ethan."
     }
   ]
 }
