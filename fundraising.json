@@ -1,22 +1,22 @@
 {
-  "raised": 27802,
+  "raised": 28017,
   "goal": 20000,
-  "donors": 200,
+  "donors": 201,
   "last_updated": "2026-06-04",
   "recent_donors": [
+    {
+      "date": "2026-06-04 18:45:15",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Brett, Annalea, Millie & Jedd Davies",
+      "message": ""
+    },
     {
       "date": "2026-06-04 17:42:58",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Turi Anderson",
       "message": "Good work guys!"
-    },
-    {
-      "date": "2026-06-04 17:42:29",
-      "amount": 10372,
-      "amount_display": "$104",
-      "name": "Rosie S",
-      "message": ""
     },
     {
       "date": "2026-05-26 20:54:39",
