@@ -1,9 +1,16 @@
 {
   "raised": 31200,
   "goal": 20000,
-  "donors": 223,
+  "donors": 224,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 21:38:04",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Chelsea Lane",
+      "message": "Smashing it!! You guys are amazing \u2764\ufe0f\u2764\ufe0f"
+    },
     {
       "date": "2026-06-05 19:34:56",
       "amount": 10612,
@@ -12,53 +19,46 @@
       "message": "Inspiring, you guys got this! Proud of you all"
     },
     {
-      "date": "2026-06-05 19:27:19",
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+    },
+    {
+      "date": "2026-04-18 16:43:36",
       "amount": 20000,
       "amount_display": "$200",
-      "name": "Anonymous",
-      "message": "Thanking you for all your efforts raising awareness for men\u2019s mental health and raising funds for such an incredible cause \ud83d\ude4c customer @The beachcomber resort."
+      "name": "LUKE A HACKETT",
+      "message": "Good luck Guys, Have fun great cause."
     },
     {
-      "date": "2026-03-14 10:37:00",
+      "date": "2026-06-04 20:13:26",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Carol Morrissey",
+      "message": "Congratulations boys .should be proud of your achievements"
+    },
+    {
+      "date": "2026-04-30 07:36:30",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Ros",
+      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
+    },
+    {
+      "date": "2026-05-08 21:20:52",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "Andrew Toole",
+      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
+    },
+    {
+      "date": "2026-01-12 23:15:13",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Danielle & Warwick Campbell",
-      "message": "What an amazing, awesome and selfless thing to do"
-    },
-    {
-      "date": "2026-05-31 21:01:24",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "The O\u2019Mally\u2019s",
-      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
-    },
-    {
-      "date": "2026-03-17 07:22:47",
-      "amount": 52750,
-      "amount_display": "$528",
-      "name": "Daz & El",
-      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
-    },
-    {
-      "date": "2026-06-02 21:17:51",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Mow Me Over Property Maintenance",
-      "message": "Well done guys"
-    },
-    {
-      "date": "2026-05-17 20:18:02",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Jodi  Culnane",
-      "message": "You guys are amazing!!!"
-    },
-    {
-      "date": "2026-05-28 10:22:27",
-      "amount": 26725,
-      "amount_display": "$267",
-      "name": "Geordie Larkin",
-      "message": "Into it boys \ud83e\udee1"
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     }
   ]
 }
