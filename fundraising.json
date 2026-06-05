@@ -1,22 +1,22 @@
 {
-  "raised": 30366,
+  "raised": 30390,
   "goal": 20000,
-  "donors": 214,
+  "donors": 215,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 10:18:23",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Rick Rudgley",
+      "message": "Phenomenal gents"
+    },
     {
       "date": "2026-06-05 08:13:17",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Grandma Robyn",
       "message": "Sending strength & love to the 3 of you\u2026. you\u2019re almost there, Boys! The whole of Australia is loving your efforts, definitely raising awareness!"
-    },
-    {
-      "date": "2026-06-05 07:56:45",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Rues",
-      "message": ""
     },
     {
       "date": "2026-04-20 14:55:25",
