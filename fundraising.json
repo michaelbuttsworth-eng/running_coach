@@ -1,9 +1,16 @@
 {
   "raised": 30511,
   "goal": 20000,
-  "donors": 218,
+  "donors": 219,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 14:40:56",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Elise Waldron",
+      "message": ""
+    },
     {
       "date": "2026-06-05 14:20:37",
       "amount": 5484,
@@ -12,18 +19,11 @@
       "message": ""
     },
     {
-      "date": "2026-06-05 13:23:52",
+      "date": "2026-06-01 15:47:58",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Vicki  and Phoebe",
-      "message": "Excellent jobs guys, your nearly there \u2764\ufe0f"
-    },
-    {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
+      "name": "Eve Bathurst",
+      "message": "Good luck team!"
     },
     {
       "date": "2026-03-14 10:37:00",
@@ -40,25 +40,25 @@
       "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
     },
     {
-      "date": "2026-06-04 20:54:31",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tony Fisher",
-      "message": "Great work lads and for such an important cause. Super proud of you all."
+      "date": "2026-06-04 21:53:14",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "James Christie",
+      "message": "Love what you all have done, such a massive feelongs that plenty of us men don't talk about. Big love boys, plenty of hard yards done \u2764\ufe0f\u2764\ufe0f"
     },
     {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-06-04 20:19:53",
+      "amount": 5364,
+      "amount_display": "$54",
+      "name": "Emma  Siejka",
+      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
     },
     {
-      "date": "2026-02-12 16:17:02",
+      "date": "2026-05-31 20:12:42",
       "amount": 20000,
       "amount_display": "$200",
-      "name": "Steele and Co Law and Conveyancing",
-      "message": "Well done, great cause"
+      "name": "Dawn  Comerford",
+      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
     }
   ]
 }
