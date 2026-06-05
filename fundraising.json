@@ -1,22 +1,22 @@
 {
-  "raised": 30456,
+  "raised": 30511,
   "goal": 20000,
-  "donors": 217,
+  "donors": 218,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 14:20:37",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Helen & Brett Hurditch",
+      "message": ""
+    },
     {
       "date": "2026-06-05 13:23:52",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Vicki  and Phoebe",
       "message": "Excellent jobs guys, your nearly there \u2764\ufe0f"
-    },
-    {
-      "date": "2026-06-05 13:01:21",
-      "amount": 1180,
-      "amount_display": "$12",
-      "name": "Anonymous",
-      "message": "Let\u2019s go boys"
     },
     {
       "date": "2026-01-15 11:24:33",
@@ -26,32 +26,32 @@
       "message": "Good luck !!!"
     },
     {
-      "date": "2026-02-02 18:57:12",
-      "amount": 12500,
-      "amount_display": "$125",
-      "name": "Marg Sharkey",
-      "message": "Well done Ethan"
-    },
-    {
-      "date": "2026-01-15 20:30:17",
+      "date": "2026-03-14 10:37:00",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Chris & Ann-Maree McIntyre",
-      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "name": "Danielle & Warwick Campbell",
+      "message": "What an amazing, awesome and selfless thing to do"
     },
     {
-      "date": "2026-06-04 20:19:53",
-      "amount": 5364,
-      "amount_display": "$54",
-      "name": "Emma  Siejka",
-      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
+      "date": "2026-05-08 16:47:30",
+      "amount": 104000,
+      "amount_display": "$1,040",
+      "name": "Anytime Fitness Bathurst",
+      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
     },
     {
-      "date": "2026-01-12 23:15:13",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Cooper Traves",
-      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
+      "date": "2026-06-04 20:54:31",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Tony Fisher",
+      "message": "Great work lads and for such an important cause. Super proud of you all."
+    },
+    {
+      "date": "2026-05-25 15:23:39",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Nic and Wade Elliott",
+      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
       "date": "2026-02-12 16:17:02",
