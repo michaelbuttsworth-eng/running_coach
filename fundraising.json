@@ -2,7 +2,7 @@
   "raised": 31335,
   "goal": 20000,
   "donors": 225,
-  "last_updated": "2026-06-05",
+  "last_updated": "2026-06-06",
   "recent_donors": [
     {
       "date": "2026-06-05 22:09:06",
@@ -19,46 +19,46 @@
       "message": "Smashing it!! You guys are amazing \u2764\ufe0f\u2764\ufe0f"
     },
     {
+      "date": "2026-06-04 10:30:20",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Kate Lynch",
+      "message": "Great work Ethan and team!"
+    },
+    {
+      "date": "2026-05-08 16:47:30",
+      "amount": 104000,
+      "amount_display": "$1,040",
+      "name": "Anytime Fitness Bathurst",
+      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
+    },
+    {
+      "date": "2026-06-05 19:34:56",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Ella and Izzy xx",
+      "message": "Inspiring, you guys got this! Proud of you all"
+    },
+    {
+      "date": "2026-06-04 17:23:14",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Tillie Dunbar",
+      "message": "Well done boys! Nearly at the finish line! \ud83d\ude4c\ud83c\udffc"
+    },
+    {
+      "date": "2026-06-05 15:35:44",
+      "amount": 16275,
+      "amount_display": "$163",
+      "name": "Tim & David Currie",
+      "message": "See you tomorrow. Well done. Important cause. Tim"
+    },
+    {
       "date": "2026-05-31 19:39:01",
       "amount": 75000,
       "amount_display": "$750",
       "name": "Tim Booth",
       "message": "Awesome words lads"
-    },
-    {
-      "date": "2026-04-18 16:43:36",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "LUKE A HACKETT",
-      "message": "Good luck Guys, Have fun great cause."
-    },
-    {
-      "date": "2026-06-04 20:19:53",
-      "amount": 5364,
-      "amount_display": "$54",
-      "name": "Emma  Siejka",
-      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
-    },
-    {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
-    },
-    {
-      "date": "2026-02-02 17:51:36",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Emma Robinson",
-      "message": "Well done boys"
-    },
-    {
-      "date": "2026-01-22 21:50:15",
-      "amount": 8025,
-      "amount_display": "$80",
-      "name": "Lisa Smith (Powell)",
-      "message": "Good luck!!!"
     }
   ]
 }
