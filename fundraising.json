@@ -1,29 +1,22 @@
 {
-  "raised": 30839,
+  "raised": 31039,
   "goal": 20000,
-  "donors": 221,
+  "donors": 223,
   "last_updated": "2026-06-05",
   "recent_donors": [
     {
-      "date": "2026-06-05 17:50:42",
-      "amount": 5484,
-      "amount_display": "$55",
+      "date": "2026-06-05 19:34:56",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Ella and Izzy xx",
+      "message": "Inspiring, you guys got this! Proud of you all"
+    },
+    {
+      "date": "2026-06-05 19:27:19",
+      "amount": 20000,
+      "amount_display": "$200",
       "name": "Anonymous",
-      "message": "I saw you on WIN news today! I want to thank you for highlighting MMH and the need for men to talk. No one is alone, but the first step isnt always easy,"
-    },
-    {
-      "date": "2026-06-05 15:35:44",
-      "amount": 16275,
-      "amount_display": "$163",
-      "name": "Tim & David Currie",
-      "message": "See you tomorrow. Well done. Important cause. Tim"
-    },
-    {
-      "date": "2026-06-01 15:47:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Eve Bathurst",
-      "message": "Good luck team!"
+      "message": "Thanking you for all your efforts raising awareness for men\u2019s mental health and raising funds for such an incredible cause \ud83d\ude4c customer @The beachcomber resort."
     },
     {
       "date": "2026-03-14 10:37:00",
@@ -33,32 +26,39 @@
       "message": "What an amazing, awesome and selfless thing to do"
     },
     {
-      "date": "2026-05-08 16:47:30",
-      "amount": 104000,
-      "amount_display": "$1,040",
-      "name": "Anytime Fitness Bathurst",
-      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
+      "date": "2026-05-31 21:01:24",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The O\u2019Mally\u2019s",
+      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
     },
     {
-      "date": "2026-06-04 21:53:14",
-      "amount": 154000,
-      "amount_display": "$1,540",
-      "name": "James Christie",
-      "message": "Love what you all have done, such a massive feelongs that plenty of us men don't talk about. Big love boys, plenty of hard yards done \u2764\ufe0f\u2764\ufe0f"
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
     },
     {
-      "date": "2026-06-04 20:19:53",
-      "amount": 5364,
-      "amount_display": "$54",
-      "name": "Emma  Siejka",
-      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
+      "date": "2026-06-02 21:17:51",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Mow Me Over Property Maintenance",
+      "message": "Well done guys"
     },
     {
-      "date": "2026-05-31 20:12:42",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Dawn  Comerford",
-      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
+      "date": "2026-05-17 20:18:02",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jodi  Culnane",
+      "message": "You guys are amazing!!!"
+    },
+    {
+      "date": "2026-05-28 10:22:27",
+      "amount": 26725,
+      "amount_display": "$267",
+      "name": "Geordie Larkin",
+      "message": "Into it boys \ud83e\udee1"
     }
   ]
 }
