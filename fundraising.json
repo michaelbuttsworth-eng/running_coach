@@ -1,9 +1,16 @@
 {
-  "raised": 30390,
+  "raised": 30402,
   "goal": 20000,
-  "donors": 215,
+  "donors": 216,
   "last_updated": "2026-06-05",
   "recent_donors": [
+    {
+      "date": "2026-06-05 13:01:21",
+      "amount": 1180,
+      "amount_display": "$12",
+      "name": "Anonymous",
+      "message": "Let\u2019s go boys"
+    },
     {
       "date": "2026-06-05 10:18:23",
       "amount": 2350,
@@ -12,18 +19,11 @@
       "message": "Phenomenal gents"
     },
     {
-      "date": "2026-06-05 08:13:17",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Grandma Robyn",
-      "message": "Sending strength & love to the 3 of you\u2026. you\u2019re almost there, Boys! The whole of Australia is loving your efforts, definitely raising awareness!"
-    },
-    {
-      "date": "2026-04-20 14:55:25",
-      "amount": 30000,
-      "amount_display": "$300",
-      "name": "BATHURST RSL CLUB LTD",
-      "message": "Good luck and best wishes"
+      "date": "2026-05-26 20:54:39",
+      "amount": 52900,
+      "amount_display": "$529",
+      "name": "BLATCH QUALITY SMASH REPAIRS",
+      "message": "Such a great cause guys - well done and enjoy x"
     },
     {
       "date": "2026-03-14 10:37:00",
@@ -33,32 +33,32 @@
       "message": "What an amazing, awesome and selfless thing to do"
     },
     {
-      "date": "2026-06-01 09:51:51",
-      "amount": 12500,
-      "amount_display": "$125",
-      "name": "Craig Gibson",
-      "message": "Well done boys, fantastic effort. Cheers Gibbo"
+      "date": "2026-06-01 10:50:08",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Karen Buttsworth",
+      "message": "Very proud of you boys"
     },
     {
-      "date": "2026-06-04 19:46:09",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Lisa Morrissey",
-      "message": "Amazing effort guys."
+      "date": "2026-06-04 20:13:26",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Carol Morrissey",
+      "message": "Congratulations boys .should be proud of your achievements"
     },
     {
-      "date": "2026-06-01 17:30:20",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Roslyn King",
-      "message": "Well Done Boys. Such a great cause"
+      "date": "2026-06-01 18:08:25",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The Cullen\u2019s",
+      "message": "Thanks for doing this to help others to overcome the black dog."
     },
     {
-      "date": "2026-04-04 20:26:08",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Anonymous",
-      "message": "Great cause Ethan."
+      "date": "2026-04-18 16:43:36",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "LUKE A HACKETT",
+      "message": "Good luck Guys, Have fun great cause."
     }
   ]
 }
