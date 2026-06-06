@@ -1,9 +1,16 @@
 {
-  "raised": 33730,
+  "raised": 33785,
   "goal": 20000,
-  "donors": 248,
+  "donors": 249,
   "last_updated": "2026-06-06",
   "recent_donors": [
+    {
+      "date": "2026-06-06 19:43:22",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Hamer Family",
+      "message": ""
+    },
     {
       "date": "2026-06-06 19:12:53",
       "amount": 2350,
@@ -12,53 +19,46 @@
       "message": "Incredible effort boys! You should be so proud!"
     },
     {
-      "date": "2026-06-06 18:32:42",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Vic Hughes",
-      "message": "Never underestimate the impact you have had on the Stannies boys! This is an amazing journey and we are so proud of you all! Xx"
-    },
-    {
-      "date": "2026-03-12 13:53:26",
-      "amount": 3779,
-      "amount_display": "$38",
-      "name": "Anonymous",
-      "message": "Good Luck & safe travels."
-    },
-    {
-      "date": "2026-02-21 14:45:11",
+      "date": "2026-01-12 23:15:13",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Joey Blackie",
-      "message": "Good luck boys"
+      "name": "Cooper Traves",
+      "message": "Give it hell brother \ud83e\udef6\ud83c\udffc"
     },
     {
-      "date": "2026-05-31 20:12:42",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Dawn  Comerford",
-      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
+      "date": "2026-06-04 08:07:27",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Flynn Waddell",
+      "message": "Keep it up boys. All backing you"
     },
     {
-      "date": "2026-04-18 16:43:36",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "LUKE A HACKETT",
-      "message": "Good luck Guys, Have fun great cause."
+      "date": "2026-03-05 20:28:42",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Rochelle and Clint Mutton",
+      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
     },
     {
-      "date": "2026-06-04 10:17:18",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Patrick  Fisher",
-      "message": "Well done boys! Great cause"
+      "date": "2026-06-04 20:19:53",
+      "amount": 5364,
+      "amount_display": "$54",
+      "name": "Emma  Siejka",
+      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
     },
     {
-      "date": "2026-06-06 09:33:31",
-      "amount": 31890,
-      "amount_display": "$319",
-      "name": "Mary + Co - Gym Girls",
-      "message": "Amazing effort boys!"
+      "date": "2026-06-02 11:40:06",
+      "amount": 8000,
+      "amount_display": "$80",
+      "name": "Ian  Webb",
+      "message": "Best of luck boys."
+    },
+    {
+      "date": "2026-03-22 08:52:10",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Bestie and Henry Cadalt",
+      "message": "Good Luck Boys! Bestie and Henry!"
     }
   ]
 }
