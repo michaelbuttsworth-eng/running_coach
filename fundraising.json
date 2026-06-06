@@ -1,22 +1,22 @@
 {
-  "raised": 34319,
+  "raised": 34425,
   "goal": 20000,
-  "donors": 253,
+  "donors": 254,
   "last_updated": "2026-06-07",
   "recent_donors": [
+    {
+      "date": "2026-06-07 08:03:15",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Emma McKenzie",
+      "message": "Congratulations guys! An amazing effort from everyone involved. You should all be very proud of yourselves\u2014well done!"
+    },
     {
       "date": "2026-06-07 07:46:49",
       "amount": 10000,
       "amount_display": "$100",
       "name": "Royan Family",
       "message": "Congratulations on an amazing feat for a wonderful worthy cause."
-    },
-    {
-      "date": "2026-06-06 21:55:00",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Sue",
-      "message": ""
     },
     {
       "date": "2026-05-29 11:25:51",
