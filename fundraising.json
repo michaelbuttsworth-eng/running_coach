@@ -1,21 +1,21 @@
 {
-  "raised": 34119,
+  "raised": 34319,
   "goal": 20000,
-  "donors": 252,
+  "donors": 253,
   "last_updated": "2026-06-07",
   "recent_donors": [
+    {
+      "date": "2026-06-07 07:46:49",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Royan Family",
+      "message": "Congratulations on an amazing feat for a wonderful worthy cause."
+    },
     {
       "date": "2026-06-06 21:55:00",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Sue",
-      "message": ""
-    },
-    {
-      "date": "2026-06-06 21:10:22",
-      "amount": 1180,
-      "amount_display": "$12",
-      "name": "Anonymous",
       "message": ""
     },
     {
