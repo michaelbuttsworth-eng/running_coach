@@ -1,21 +1,21 @@
 {
-  "raised": 32774,
+  "raised": 32829,
   "goal": 20000,
-  "donors": 241,
+  "donors": 242,
   "last_updated": "2026-06-06",
   "recent_donors": [
+    {
+      "date": "2026-06-06 16:55:23",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Bede Smeallie",
+      "message": ""
+    },
     {
       "date": "2026-06-06 16:37:26",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Taron  Winwood-Smith",
-      "message": ""
-    },
-    {
-      "date": "2026-06-06 16:29:39",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jesse Limon",
       "message": ""
     },
     {
