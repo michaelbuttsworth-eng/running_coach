@@ -1,15 +1,43 @@
 {
-  "raised": 34064,
+  "raised": 34119,
   "goal": 20000,
-  "donors": 251,
+  "donors": 252,
   "last_updated": "2026-06-06",
   "recent_donors": [
+    {
+      "date": "2026-06-06 21:55:00",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Sue",
+      "message": ""
+    },
     {
       "date": "2026-06-06 21:10:22",
       "amount": 1180,
       "amount_display": "$12",
       "name": "Anonymous",
       "message": ""
+    },
+    {
+      "date": "2026-05-25 15:26:52",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Sophie Felsch",
+      "message": "\ud83d\udc9b"
+    },
+    {
+      "date": "2026-01-13 11:10:30",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Bron Mitchell",
+      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+    },
+    {
+      "date": "2026-05-31 17:05:52",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Suz Wonson - Norford",
+      "message": "You guys are absolute legends!"
     },
     {
       "date": "2026-06-06 20:26:59",
@@ -19,46 +47,18 @@
       "message": "Congratulations boys! Watching your journey and your passion to make a difference is inspirational and I hope you are all incredibly proud of what you have achieved."
     },
     {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-05-31 20:43:12",
+      "amount": 18377,
+      "amount_display": "$184",
+      "name": "Bathurst Roadrunners",
+      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
     },
     {
-      "date": "2026-01-13 10:07:16",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Baxter",
-      "message": "Coming up to four years too long\u2026 thank you for doing this!"
-    },
-    {
-      "date": "2026-05-31 17:03:46",
-      "amount": 26725,
-      "amount_display": "$267",
-      "name": "Dani & Josh Scott",
-      "message": "Smash it out guys!"
-    },
-    {
-      "date": "2026-06-06 19:12:53",
+      "date": "2026-06-02 23:00:38",
       "amount": 2350,
       "amount_display": "$24",
-      "name": "Maryanne Mansur",
-      "message": "Incredible effort boys! You should be so proud!"
-    },
-    {
-      "date": "2026-05-31 20:12:42",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Dawn  Comerford",
-      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
-    },
-    {
-      "date": "2026-06-02 21:17:51",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Mow Me Over Property Maintenance",
-      "message": "Well done guys"
+      "name": "Emily Harrington",
+      "message": "Thank you for what you\u2019re doing - incredible achievement"
     }
   ]
 }
