@@ -1,22 +1,22 @@
 {
-  "raised": 33017,
+  "raised": 33546,
   "goal": 20000,
-  "donors": 244,
+  "donors": 245,
   "last_updated": "2026-06-06",
   "recent_donors": [
+    {
+      "date": "2026-06-06 17:44:32",
+      "amount": 52900,
+      "amount_display": "$529",
+      "name": "Brilliant Street Cafe",
+      "message": "Fella\u2019s that was amazing, well done! You are incredible!!!!"
+    },
     {
       "date": "2026-06-06 17:39:19",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Matthew Locke",
       "message": "Unbelievable effort. Well done boys."
-    },
-    {
-      "date": "2026-06-06 17:30:39",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "CHK Finance Enterprise PTY LTD",
-      "message": ""
     },
     {
       "date": "2026-01-13 10:07:16",
