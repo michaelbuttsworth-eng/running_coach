@@ -1,9 +1,16 @@
 {
   "raised": 34425,
   "goal": 20000,
-  "donors": 254,
+  "donors": 255,
   "last_updated": "2026-06-07",
   "recent_donors": [
+    {
+      "date": "2026-06-07 08:53:08",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Tamara",
+      "message": ""
+    },
     {
       "date": "2026-06-07 08:03:15",
       "amount": 10612,
@@ -12,25 +19,18 @@
       "message": "Congratulations guys! An amazing effort from everyone involved. You should all be very proud of yourselves\u2014well done!"
     },
     {
-      "date": "2026-06-07 07:46:49",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Royan Family",
-      "message": "Congratulations on an amazing feat for a wonderful worthy cause."
+      "date": "2026-02-20 11:20:26",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Izzy Jacobson",
+      "message": "Unbelievably proud of you boys \ud83d\udc99"
     },
     {
-      "date": "2026-05-29 11:25:51",
+      "date": "2026-05-08 21:20:52",
       "amount": 13265,
       "amount_display": "$133",
-      "name": "Margaret Sharkey",
-      "message": "Hope you achieve your goal \ud83d\ude4f"
-    },
-    {
-      "date": "2026-04-20 10:25:28",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Rod Lorimer",
-      "message": "Well done boys"
+      "name": "Andrew Toole",
+      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
     },
     {
       "date": "2026-02-02 18:57:12",
@@ -47,18 +47,18 @@
       "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
     },
     {
-      "date": "2026-04-30 07:36:30",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Ros",
-      "message": "Thank you and the crew for raising awareness and funds for this important issue. All the best with the run."
+      "date": "2026-02-05 14:19:32",
+      "amount": 21100,
+      "amount_display": "$211",
+      "name": "Kel & Dave Dunbar xx",
+      "message": "You guys are amazing\ud83d\ude4c\ud83c\udffc\ud83d\udc4a\ud83c\udffc\ud83e\udd70"
     },
     {
-      "date": "2026-06-04 20:13:26",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Carol Morrissey",
-      "message": "Congratulations boys .should be proud of your achievements"
+      "date": "2026-06-04 20:19:53",
+      "amount": 5364,
+      "amount_display": "$54",
+      "name": "Emma  Siejka",
+      "message": "Huge achievement already fella's and very worthy cause. Goodluck with the last few days!"
     }
   ]
 }
