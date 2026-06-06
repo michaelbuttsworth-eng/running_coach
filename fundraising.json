@@ -1,9 +1,16 @@
 {
-  "raised": 33707,
+  "raised": 33730,
   "goal": 20000,
-  "donors": 247,
+  "donors": 248,
   "last_updated": "2026-06-06",
   "recent_donors": [
+    {
+      "date": "2026-06-06 19:12:53",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Maryanne Mansur",
+      "message": "Incredible effort boys! You should be so proud!"
+    },
     {
       "date": "2026-06-06 18:32:42",
       "amount": 10612,
@@ -12,53 +19,46 @@
       "message": "Never underestimate the impact you have had on the Stannies boys! This is an amazing journey and we are so proud of you all! Xx"
     },
     {
-      "date": "2026-06-06 18:15:39",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Louise Roberts",
-      "message": "Great job guys. Congratulations on a strong finish. So good to rope in some of your mates for the run into Newy."
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
     },
     {
-      "date": "2026-02-02 17:23:01",
+      "date": "2026-02-21 14:45:11",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Belinda",
-      "message": "Good luck lads!"
+      "name": "Joey Blackie",
+      "message": "Good luck boys"
     },
     {
-      "date": "2026-06-02 23:00:38",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Emily Harrington",
-      "message": "Thank you for what you\u2019re doing - incredible achievement"
+      "date": "2026-05-31 20:12:42",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Dawn  Comerford",
+      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
     },
     {
-      "date": "2026-05-31 20:43:12",
-      "amount": 18377,
-      "amount_display": "$184",
-      "name": "Bathurst Roadrunners",
-      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
+      "date": "2026-04-18 16:43:36",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "LUKE A HACKETT",
+      "message": "Good luck Guys, Have fun great cause."
     },
     {
-      "date": "2026-02-02 18:09:26",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Richard & Ann Parker",
-      "message": "Go boys!!! Great cause."
+      "date": "2026-06-04 10:17:18",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Patrick  Fisher",
+      "message": "Well done boys! Great cause"
     },
     {
-      "date": "2026-02-02 19:52:51",
-      "amount": 21100,
-      "amount_display": "$211",
-      "name": "Denise Thompson",
-      "message": "So very proud of you both xx"
-    },
-    {
-      "date": "2026-05-31 17:05:52",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Suz Wonson - Norford",
-      "message": "You guys are absolute legends!"
+      "date": "2026-06-06 09:33:31",
+      "amount": 31890,
+      "amount_display": "$319",
+      "name": "Mary + Co - Gym Girls",
+      "message": "Amazing effort boys!"
     }
   ]
 }
