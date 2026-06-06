@@ -1,22 +1,22 @@
 {
   "raised": 34052,
   "goal": 20000,
-  "donors": 250,
+  "donors": 251,
   "last_updated": "2026-06-06",
   "recent_donors": [
+    {
+      "date": "2026-06-06 21:10:22",
+      "amount": 1180,
+      "amount_display": "$12",
+      "name": "Anonymous",
+      "message": ""
+    },
     {
       "date": "2026-06-06 20:26:59",
       "amount": 26725,
       "amount_display": "$267",
       "name": "Central West Waste Management",
       "message": "Congratulations boys! Watching your journey and your passion to make a difference is inspirational and I hope you are all incredibly proud of what you have achieved."
-    },
-    {
-      "date": "2026-06-06 19:43:22",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Hamer Family",
-      "message": ""
     },
     {
       "date": "2026-05-25 15:23:39",
