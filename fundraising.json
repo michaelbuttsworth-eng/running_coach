@@ -1,21 +1,21 @@
 {
-  "raised": 32829,
+  "raised": 33017,
   "goal": 20000,
-  "donors": 242,
+  "donors": 244,
   "last_updated": "2026-06-06",
   "recent_donors": [
     {
-      "date": "2026-06-06 16:55:23",
+      "date": "2026-06-06 17:39:19",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Bede Smeallie",
-      "message": ""
+      "name": "Matthew Locke",
+      "message": "Unbelievable effort. Well done boys."
     },
     {
-      "date": "2026-06-06 16:37:26",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Taron  Winwood-Smith",
+      "date": "2026-06-06 17:30:39",
+      "amount": 13265,
+      "amount_display": "$133",
+      "name": "CHK Finance Enterprise PTY LTD",
       "message": ""
     },
     {
