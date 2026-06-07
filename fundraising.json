@@ -1,9 +1,16 @@
 {
-  "raised": 34845,
+  "raised": 34951,
   "goal": 20000,
-  "donors": 257,
+  "donors": 258,
   "last_updated": "2026-06-07",
   "recent_donors": [
+    {
+      "date": "2026-06-07 18:19:01",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Sandra & Garry Thorn",
+      "message": "Well done boys, from Sandra and Garry, Poppy\u2019s grandparents."
+    },
     {
       "date": "2026-06-07 15:12:47",
       "amount": 5000,
@@ -12,53 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-06-07 09:07:45",
-      "amount": 31530,
-      "amount_display": "$315",
-      "name": "Linds, Nath, Finn, Kai & Cole",
-      "message": "Congratulations boys - we could not be more proud!!! \ud83d\ude4c\ud83d\udc4f\ud83d\ude4c\ud83d\udc4f"
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
     },
     {
-      "date": "2026-02-02 22:33:01",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Noah & Kate Wilkinson",
-      "message": "Goodluck Boys \ud83c\udf1f"
+      "date": "2026-06-04 19:26:30",
+      "amount": 25000,
+      "amount_display": "$250",
+      "name": "Central West Plumbing & Gasfitting",
+      "message": "Careful of them chair's"
     },
     {
-      "date": "2026-06-04 17:42:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Turi Anderson",
-      "message": "Good work guys!"
+      "date": "2026-02-26 07:05:06",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Fiona Halloway",
+      "message": "So proud of you guys"
     },
     {
-      "date": "2026-02-21 14:45:11",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Joey Blackie",
-      "message": "Good luck boys"
+      "date": "2026-06-06 18:32:42",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Vic Hughes",
+      "message": "Never underestimate the impact you have had on the Stannies boys! This is an amazing journey and we are so proud of you all! Xx"
     },
     {
-      "date": "2026-06-06 18:15:39",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Louise Roberts",
-      "message": "Great job guys. Congratulations on a strong finish. So good to rope in some of your mates for the run into Newy."
+      "date": "2026-06-02 11:40:06",
+      "amount": 8000,
+      "amount_display": "$80",
+      "name": "Ian  Webb",
+      "message": "Best of luck boys."
     },
     {
-      "date": "2026-06-01 22:21:18",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Nikki, Nick, Vinnie and Tommy Press",
-      "message": "Good on you lads! \ud83d\ude4c\ud83c\udffc"
-    },
-    {
-      "date": "2026-03-02 19:42:42",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Steven Hastedt",
-      "message": "Well done boys !!!"
+      "date": "2026-03-05 20:28:42",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Rochelle and Clint Mutton",
+      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
     }
   ]
 }
