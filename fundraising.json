@@ -2,7 +2,7 @@
   "raised": 34951,
   "goal": 20000,
   "donors": 258,
-  "last_updated": "2026-06-07",
+  "last_updated": "2026-06-08",
   "recent_donors": [
     {
       "date": "2026-06-07 18:19:01",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-02-03 13:03:23",
-      "amount": 3315,
-      "amount_display": "$33",
-      "name": "Elaine & Phil",
-      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
+      "date": "2026-05-31 20:12:42",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Dawn  Comerford",
+      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
     },
     {
-      "date": "2026-06-04 19:26:30",
-      "amount": 25000,
-      "amount_display": "$250",
-      "name": "Central West Plumbing & Gasfitting",
-      "message": "Careful of them chair's"
-    },
-    {
-      "date": "2026-02-26 07:05:06",
+      "date": "2026-01-13 21:19:04",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Fiona Halloway",
-      "message": "So proud of you guys"
+      "name": "Steve and meg",
+      "message": "A huge commitment to support such an important cause. We\u2019re right behind you!"
     },
     {
-      "date": "2026-06-06 18:32:42",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Vic Hughes",
-      "message": "Never underestimate the impact you have had on the Stannies boys! This is an amazing journey and we are so proud of you all! Xx"
+      "date": "2026-06-05 15:35:44",
+      "amount": 16275,
+      "amount_display": "$163",
+      "name": "Tim & David Currie",
+      "message": "See you tomorrow. Well done. Important cause. Tim"
     },
     {
-      "date": "2026-06-02 11:40:06",
-      "amount": 8000,
-      "amount_display": "$80",
-      "name": "Ian  Webb",
-      "message": "Best of luck boys."
+      "date": "2026-05-30 06:05:41",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Tania  Collins",
+      "message": "Goodluck guys what an amazing job you all are doing"
     },
     {
-      "date": "2026-03-05 20:28:42",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Rochelle and Clint Mutton",
-      "message": "Great work guys \ud83d\ude4c wishing you all the best!"
+      "date": "2026-06-01 18:08:25",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The Cullen\u2019s",
+      "message": "Thanks for doing this to help others to overcome the black dog."
+    },
+    {
+      "date": "2026-06-03 06:48:39",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "JAX Tyres & Auto Orange",
+      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
     }
   ]
 }
