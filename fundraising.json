@@ -1,22 +1,22 @@
 {
   "raised": 34795,
   "goal": 20000,
-  "donors": 256,
+  "donors": 257,
   "last_updated": "2026-06-07",
   "recent_donors": [
+    {
+      "date": "2026-06-07 15:12:47",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Isabella Jacobson",
+      "message": ""
+    },
     {
       "date": "2026-06-07 09:07:45",
       "amount": 31530,
       "amount_display": "$315",
       "name": "Linds, Nath, Finn, Kai & Cole",
       "message": "Congratulations boys - we could not be more proud!!! \ud83d\ude4c\ud83d\udc4f\ud83d\ude4c\ud83d\udc4f"
-    },
-    {
-      "date": "2026-06-07 08:53:08",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tamara",
-      "message": ""
     },
     {
       "date": "2026-02-02 22:33:01",
