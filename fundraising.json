@@ -1,9 +1,16 @@
 {
   "raised": 35006,
   "goal": 20000,
-  "donors": 259,
+  "donors": 260,
   "last_updated": "2026-06-08",
   "recent_donors": [
+    {
+      "date": "2026-06-08 12:13:21",
+      "amount": 15000,
+      "amount_display": "$150",
+      "name": "Paul McGrath",
+      "message": "An outstanding achievement for a great cause, a big congratulations on a fantastic effort and result."
+    },
     {
       "date": "2026-06-08 10:50:16",
       "amount": 5484,
@@ -12,53 +19,46 @@
       "message": "Well done!!!!"
     },
     {
-      "date": "2026-06-07 18:19:01",
+      "date": "2026-06-04 19:37:38",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Sandra & Garry Thorn",
-      "message": "Well done boys, from Sandra and Garry, Poppy\u2019s grandparents."
+      "name": "Jeanette Cranney",
+      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
     },
     {
-      "date": "2026-05-31 20:12:42",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "Dawn  Comerford",
-      "message": "So very proud of you, good luck and stay safe. Love Nan & Pop Ted xx"
-    },
-    {
-      "date": "2026-01-13 21:19:04",
+      "date": "2026-05-29 12:48:25",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Steve and meg",
-      "message": "A huge commitment to support such an important cause. We\u2019re right behind you!"
+      "name": "Tam & Ben Stuart",
+      "message": "Such a worthy cause. Go boys!!"
     },
     {
-      "date": "2026-06-05 15:35:44",
-      "amount": 16275,
-      "amount_display": "$163",
-      "name": "Tim & David Currie",
-      "message": "See you tomorrow. Well done. Important cause. Tim"
+      "date": "2026-04-20 10:25:28",
+      "amount": 10000,
+      "amount_display": "$100",
+      "name": "Rod Lorimer",
+      "message": "Well done boys"
     },
     {
-      "date": "2026-05-30 06:05:41",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tania  Collins",
-      "message": "Goodluck guys what an amazing job you all are doing"
+      "date": "2026-06-05 22:09:06",
+      "amount": 8096,
+      "amount_display": "$81",
+      "name": "Rebecca Spice",
+      "message": "We are all so proud amazing job The spice Clan"
     },
     {
-      "date": "2026-06-01 18:08:25",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "The Cullen\u2019s",
-      "message": "Thanks for doing this to help others to overcome the black dog."
+      "date": "2026-05-06 10:26:59",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Dejorja & co",
+      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
     },
     {
-      "date": "2026-06-03 06:48:39",
-      "amount": 154000,
-      "amount_display": "$1,540",
-      "name": "JAX Tyres & Auto Orange",
-      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
+      "date": "2026-01-12 21:36:50",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Cross",
+      "message": "You\u2019ve got this, support all the way"
     }
   ]
 }
