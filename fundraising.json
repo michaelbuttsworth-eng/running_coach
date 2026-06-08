@@ -1,9 +1,16 @@
 {
-  "raised": 35156,
+  "raised": 35206,
   "goal": 20000,
-  "donors": 260,
+  "donors": 261,
   "last_updated": "2026-06-08",
   "recent_donors": [
+    {
+      "date": "2026-06-08 21:51:18",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Hailee Taylor",
+      "message": ""
+    },
     {
       "date": "2026-06-08 12:13:21",
       "amount": 15000,
@@ -12,39 +19,32 @@
       "message": "An outstanding achievement for a great cause, a big congratulations on a fantastic effort and result."
     },
     {
-      "date": "2026-06-08 10:50:16",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Kate Welsh",
-      "message": "Well done!!!!"
+      "date": "2026-01-12 22:27:00",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Favero and associates financial planning",
+      "message": "Good luck"
     },
     {
-      "date": "2026-06-04 19:37:38",
+      "date": "2026-05-31 17:05:52",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Jeanette Cranney",
-      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
+      "name": "Suz Wonson - Norford",
+      "message": "You guys are absolute legends!"
     },
     {
-      "date": "2026-05-29 12:48:25",
+      "date": "2026-01-15 20:30:17",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Chris & Ann-Maree McIntyre",
+      "message": "\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f Well done Ethan \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-06-06 07:20:35",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Tam & Ben Stuart",
-      "message": "Such a worthy cause. Go boys!!"
-    },
-    {
-      "date": "2026-04-20 10:25:28",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Rod Lorimer",
-      "message": "Well done boys"
-    },
-    {
-      "date": "2026-06-05 22:09:06",
-      "amount": 8096,
-      "amount_display": "$81",
-      "name": "Rebecca Spice",
-      "message": "We are all so proud amazing job The spice Clan"
+      "name": "Burnice & Trent Browne",
+      "message": "Amazing effort everyone!!"
     },
     {
       "date": "2026-05-06 10:26:59",
@@ -54,11 +54,11 @@
       "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
     },
     {
-      "date": "2026-01-12 21:36:50",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Cross",
-      "message": "You\u2019ve got this, support all the way"
+      "date": "2026-02-02 18:57:12",
+      "amount": 12500,
+      "amount_display": "$125",
+      "name": "Marg Sharkey",
+      "message": "Well done Ethan"
     }
   ]
 }
