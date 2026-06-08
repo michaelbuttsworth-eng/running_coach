@@ -1,22 +1,22 @@
 {
-  "raised": 34951,
+  "raised": 35006,
   "goal": 20000,
-  "donors": 258,
+  "donors": 259,
   "last_updated": "2026-06-08",
   "recent_donors": [
+    {
+      "date": "2026-06-08 10:50:16",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Kate Welsh",
+      "message": "Well done!!!!"
+    },
     {
       "date": "2026-06-07 18:19:01",
       "amount": 10612,
       "amount_display": "$106",
       "name": "Sandra & Garry Thorn",
       "message": "Well done boys, from Sandra and Garry, Poppy\u2019s grandparents."
-    },
-    {
-      "date": "2026-06-07 15:12:47",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Isabella Jacobson",
-      "message": ""
     },
     {
       "date": "2026-05-31 20:12:42",
