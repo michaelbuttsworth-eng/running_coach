@@ -1,9 +1,16 @@
 {
-  "raised": 35401,
+  "raised": 35507,
   "goal": 20000,
-  "donors": 263,
+  "donors": 264,
   "last_updated": "2026-06-09",
   "recent_donors": [
+    {
+      "date": "2026-06-09 11:59:15",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Newton Family",
+      "message": "Congratulations and well done!"
+    },
     {
       "date": "2026-06-09 09:01:19",
       "amount": 9500,
@@ -12,18 +19,18 @@
       "message": "Great young men running for a great cause. Lovely to meet you all at your pit stop at the Bateau Bay Hotel. Scott Clucas $20 Kaylea Smith $10 Donna McGreggor $5 Simone Cooper $10 Rod $50"
     },
     {
-      "date": "2026-06-09 08:52:21",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Chris Conan - Bateau Bay Hotel",
-      "message": "Amazing effort, great cause."
+      "date": "2026-06-04 11:26:22",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Denzil Begley",
+      "message": "Pick up the pace x"
     },
     {
-      "date": "2026-06-01 09:51:51",
-      "amount": 12500,
-      "amount_display": "$125",
-      "name": "Craig Gibson",
-      "message": "Well done boys, fantastic effort. Cheers Gibbo"
+      "date": "2026-01-15 11:24:33",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Brendon & Ammy",
+      "message": "Good luck !!!"
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -33,32 +40,25 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-05-30 17:37:25",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Anna Hugh & Roy Thomas",
-      "message": "Great work boys such a worthwhile cause"
+      "date": "2026-06-04 10:17:18",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Patrick  Fisher",
+      "message": "Well done boys! Great cause"
     },
     {
-      "date": "2026-05-11 17:09:51",
-      "amount": 8607,
-      "amount_display": "$86",
-      "name": "Anonymous",
-      "message": "Well done mate, hope you achieve your goal"
+      "date": "2026-02-02 17:23:01",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Belinda",
+      "message": "Good luck lads!"
     },
     {
-      "date": "2026-06-05 10:18:23",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Rick Rudgley",
-      "message": "Phenomenal gents"
-    },
-    {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
+      "date": "2026-06-03 08:55:59",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Lauren Perry",
+      "message": "Awesome effort lads, great cause, welldone!"
     }
   ]
 }
