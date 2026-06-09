@@ -2,7 +2,7 @@
   "raised": 35507,
   "goal": 20000,
   "donors": 264,
-  "last_updated": "2026-06-09",
+  "last_updated": "2026-06-10",
   "recent_donors": [
     {
       "date": "2026-06-09 11:59:15",
@@ -19,18 +19,11 @@
       "message": "Great young men running for a great cause. Lovely to meet you all at your pit stop at the Bateau Bay Hotel. Scott Clucas $20 Kaylea Smith $10 Donna McGreggor $5 Simone Cooper $10 Rod $50"
     },
     {
-      "date": "2026-06-04 11:26:22",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Denzil Begley",
-      "message": "Pick up the pace x"
-    },
-    {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
+      "date": "2026-05-25 15:26:52",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Sophie Felsch",
+      "message": "\ud83d\udc9b"
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -40,25 +33,32 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-04 10:17:18",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Patrick  Fisher",
-      "message": "Well done boys! Great cause"
+      "date": "2026-06-04 19:37:38",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jeanette Cranney",
+      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
     },
     {
-      "date": "2026-02-02 17:23:01",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Belinda",
-      "message": "Good luck lads!"
+      "date": "2026-03-12 13:53:26",
+      "amount": 3779,
+      "amount_display": "$38",
+      "name": "Anonymous",
+      "message": "Good Luck & safe travels."
     },
     {
-      "date": "2026-06-03 08:55:59",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Lauren Perry",
-      "message": "Awesome effort lads, great cause, welldone!"
+      "date": "2026-01-19 06:39:50",
+      "amount": 2258,
+      "amount_display": "$23",
+      "name": "Ellie Shields",
+      "message": "See you in Newy, good luck !"
+    },
+    {
+      "date": "2026-06-06 09:33:31",
+      "amount": 31890,
+      "amount_display": "$319",
+      "name": "Mary + Co - Gym Girls",
+      "message": "Amazing effort boys!"
     }
   ]
 }
