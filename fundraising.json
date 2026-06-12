@@ -1,9 +1,16 @@
 {
-  "raised": 35637,
+  "raised": 35692,
   "goal": 20000,
-  "donors": 266,
+  "donors": 267,
   "last_updated": "2026-06-12",
   "recent_donors": [
+    {
+      "date": "2026-06-12 18:14:34",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Bernard Driver",
+      "message": "Congratulations to the Comerford brothers, family & friends on your amazing achievement and funds raised."
+    },
     {
       "date": "2026-06-12 09:43:02",
       "amount": 10612,
@@ -12,18 +19,11 @@
       "message": "Great work team! Thanks so much for your incredible support of Black Dog Institute to drive better mental health for all!"
     },
     {
-      "date": "2026-06-11 21:01:56",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Lou Jones",
-      "message": "Great effort guys. No need for a receipt Cheers everyone"
-    },
-    {
-      "date": "2026-05-25 20:15:05",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Niel & Renee Howard",
-      "message": "So proud! See you all at the finish line."
+      "date": "2026-06-05 08:13:17",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Grandma Robyn",
+      "message": "Sending strength & love to the 3 of you\u2026. you\u2019re almost there, Boys! The whole of Australia is loving your efforts, definitely raising awareness!"
     },
     {
       "date": "2026-01-13 11:10:30",
@@ -33,25 +33,25 @@
       "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-06-05 06:15:50",
+      "date": "2026-06-06 12:52:23",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Steve and Meg",
+      "message": "Well done, finish line in sight now boys. Willy B would be proud. \ud83d\udc99"
+    },
+    {
+      "date": "2026-06-03 06:48:39",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "JAX Tyres & Auto Orange",
+      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
+    },
+    {
+      "date": "2026-06-02 20:28:06",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "McD family",
-      "message": "Well done gents. Raising money and awareness at the same time."
-    },
-    {
-      "date": "2026-05-08 16:47:30",
-      "amount": 104000,
-      "amount_display": "$1,040",
-      "name": "Anytime Fitness Bathurst",
-      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
-    },
-    {
-      "date": "2026-04-20 10:25:28",
-      "amount": 10000,
-      "amount_display": "$100",
-      "name": "Rod Lorimer",
-      "message": "Well done boys"
+      "name": "Jill",
+      "message": "Good luck"
     },
     {
       "date": "2026-01-12 21:22:41",
