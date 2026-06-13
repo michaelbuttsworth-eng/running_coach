@@ -2,7 +2,7 @@
   "raised": 35692,
   "goal": 20000,
   "donors": 267,
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-14",
   "recent_donors": [
     {
       "date": "2026-06-12 18:14:34",
@@ -19,11 +19,32 @@
       "message": "Great work team! Thanks so much for your incredible support of Black Dog Institute to drive better mental health for all!"
     },
     {
-      "date": "2026-06-09 09:01:19",
-      "amount": 9500,
-      "amount_display": "$95",
-      "name": "The Bateau  Bay Hotel car park pit stop.",
-      "message": "Great young men running for a great cause. Lovely to meet you all at your pit stop at the Bateau Bay Hotel. Scott Clucas $20 Kaylea Smith $10 Donna McGreggor $5 Simone Cooper $10 Rod $50"
+      "date": "2026-06-06 12:52:23",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Steve and Meg",
+      "message": "Well done, finish line in sight now boys. Willy B would be proud. \ud83d\udc99"
+    },
+    {
+      "date": "2026-05-31 19:33:57",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Kevin Walker",
+      "message": "All the best boys! Bx Roadrunners wishing you well!"
+    },
+    {
+      "date": "2026-06-01 09:51:13",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Altech Air - Lavelle Family",
+      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
+    },
+    {
+      "date": "2026-06-04 17:23:14",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Tillie Dunbar",
+      "message": "Well done boys! Nearly at the finish line! \ud83d\ude4c\ud83c\udffc"
     },
     {
       "date": "2026-06-06 16:21:02",
@@ -33,32 +54,11 @@
       "message": "Amazing work for a great cause. Well done boys xxx"
     },
     {
-      "date": "2026-02-03 21:32:36",
-      "amount": 1141,
-      "amount_display": "$11",
-      "name": "Liz Evans",
-      "message": "How kind and thoughtful you are be doing this to help other people. Safe travels."
-    },
-    {
-      "date": "2026-05-03 10:39:16",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "James Worthington",
-      "message": "I love Buttsy"
-    },
-    {
-      "date": "2026-06-06 18:32:42",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Vic Hughes",
-      "message": "Never underestimate the impact you have had on the Stannies boys! This is an amazing journey and we are so proud of you all! Xx"
-    },
-    {
-      "date": "2026-05-30 14:42:31",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Heather Lamberton",
-      "message": "Best of luck Ethan & Austin."
+      "date": "2026-06-04 21:53:14",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "James Christie",
+      "message": "Love what you all have done, such a massive feelongs that plenty of us men don't talk about. Big love boys, plenty of hard yards done \u2764\ufe0f\u2764\ufe0f"
     }
   ]
 }
