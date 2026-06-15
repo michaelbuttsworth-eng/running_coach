@@ -2,7 +2,7 @@
   "raised": 36215,
   "goal": 20000,
   "donors": 268,
-  "last_updated": "2026-06-15",
+  "last_updated": "2026-06-16",
   "recent_donors": [
     {
       "date": "2026-06-14 10:15:32",
@@ -19,6 +19,34 @@
       "message": "Congratulations to the Comerford brothers, family & friends on your amazing achievement and funds raised."
     },
     {
+      "date": "2026-03-02 19:42:42",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Steven Hastedt",
+      "message": "Well done boys !!!"
+    },
+    {
+      "date": "2026-04-20 14:55:25",
+      "amount": 30000,
+      "amount_display": "$300",
+      "name": "BATHURST RSL CLUB LTD",
+      "message": "Good luck and best wishes"
+    },
+    {
+      "date": "2026-06-01 15:47:58",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Eve Bathurst",
+      "message": "Good luck team!"
+    },
+    {
+      "date": "2026-05-29 12:48:25",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Tam & Ben Stuart",
+      "message": "Such a worthy cause. Go boys!!"
+    },
+    {
       "date": "2026-06-07 18:19:01",
       "amount": 10612,
       "amount_display": "$106",
@@ -26,39 +54,11 @@
       "message": "Well done boys, from Sandra and Garry, Poppy\u2019s grandparents."
     },
     {
-      "date": "2026-05-30 06:05:41",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Tania  Collins",
-      "message": "Goodluck guys what an amazing job you all are doing"
-    },
-    {
-      "date": "2026-02-06 09:50:22",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Robyn Hayes",
-      "message": "Sending each of you more strength, more resilience\u2026\u2026 each of you already has the determination to succeed & belief that this cause will make a difference to countless others and it will!! \ud83c\udf40\ud83c\udf40\ud83c\udf40"
-    },
-    {
-      "date": "2026-02-02 17:51:36",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Emma Robinson",
-      "message": "Well done boys"
-    },
-    {
-      "date": "2026-06-03 18:16:15",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Alex Clements",
-      "message": "\ud83d\udc99\ud83e\udd0d\ud83d\udc99 Proud of you all! Keep up the great work!"
-    },
-    {
-      "date": "2026-03-19 16:48:50",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Jann McDowell",
-      "message": "Good work"
+      "date": "2026-04-27 13:09:50",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Jack Van Der Velden",
+      "message": "Best of luck I know you will do yourselves proud"
     }
   ]
 }
