@@ -2,7 +2,7 @@
   "raised": 36215,
   "goal": 20000,
   "donors": 268,
-  "last_updated": "2026-06-16",
+  "last_updated": "2026-06-17",
   "recent_donors": [
     {
       "date": "2026-06-14 10:15:32",
@@ -19,46 +19,46 @@
       "message": "Congratulations to the Comerford brothers, family & friends on your amazing achievement and funds raised."
     },
     {
-      "date": "2026-03-02 19:42:42",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Steven Hastedt",
-      "message": "Well done boys !!!"
+      "date": "2026-06-05 10:18:23",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Rick Rudgley",
+      "message": "Phenomenal gents"
     },
     {
-      "date": "2026-04-20 14:55:25",
-      "amount": 30000,
-      "amount_display": "$300",
-      "name": "BATHURST RSL CLUB LTD",
-      "message": "Good luck and best wishes"
+      "date": "2026-05-30 11:42:32",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Gina Davis",
+      "message": "Well done and good luck boys. Davo and Gina."
     },
     {
-      "date": "2026-06-01 15:47:58",
+      "date": "2026-02-12 16:17:02",
+      "amount": 20000,
+      "amount_display": "$200",
+      "name": "Steele and Co Law and Conveyancing",
+      "message": "Well done, great cause"
+    },
+    {
+      "date": "2026-06-02 20:28:06",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Eve Bathurst",
-      "message": "Good luck team!"
+      "name": "Jill",
+      "message": "Good luck"
     },
     {
-      "date": "2026-05-29 12:48:25",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Tam & Ben Stuart",
-      "message": "Such a worthy cause. Go boys!!"
+      "date": "2026-01-12 22:27:00",
+      "amount": 13188,
+      "amount_display": "$132",
+      "name": "Favero and associates financial planning",
+      "message": "Good luck"
     },
     {
-      "date": "2026-06-07 18:19:01",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Sandra & Garry Thorn",
-      "message": "Well done boys, from Sandra and Garry, Poppy\u2019s grandparents."
-    },
-    {
-      "date": "2026-04-27 13:09:50",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jack Van Der Velden",
-      "message": "Best of luck I know you will do yourselves proud"
+      "date": "2026-01-13 08:57:29",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Darren Sinclair",
+      "message": "Great work Ethan. Good luck to you and Austin"
     }
   ]
 }
