@@ -1,9 +1,16 @@
 {
-  "raised": 36215,
+  "raised": 36270,
   "goal": 20000,
-  "donors": 268,
+  "donors": 269,
   "last_updated": "2026-06-26",
   "recent_donors": [
+    {
+      "date": "2026-06-26 00:15:03",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Michelle Andrews",
+      "message": "To dear Ethan, Austin, Issac and Lachlan, I came to know about you through reading an article in the Newcastle Herald. Each of you are making a difference- indeed just being prepared to stand up and put a spotlight on the devastating impact that mental illness can have is an achievement. You've gone that extra mile (and then some!!); you've raised some much-needed funds, and you have honoured the memory of your friend. With young men like yourselves setting such a positive example, I feel hopeful for a brighter tomorrow. Best wishes."
+    },
     {
       "date": "2026-06-14 10:15:32",
       "amount": 50000,
@@ -12,25 +19,18 @@
       "message": ""
     },
     {
-      "date": "2026-06-12 18:14:34",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Bernard Driver",
-      "message": "Congratulations to the Comerford brothers, family & friends on your amazing achievement and funds raised."
+      "date": "2026-06-07 09:07:45",
+      "amount": 31530,
+      "amount_display": "$315",
+      "name": "Linds, Nath, Finn, Kai & Cole",
+      "message": "Congratulations boys - we could not be more proud!!! \ud83d\ude4c\ud83d\udc4f\ud83d\ude4c\ud83d\udc4f"
     },
     {
-      "date": "2026-06-07 08:03:15",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Emma McKenzie",
-      "message": "Congratulations guys! An amazing effort from everyone involved. You should all be very proud of yourselves\u2014well done!"
-    },
-    {
-      "date": "2026-05-06 10:26:59",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Dejorja & co",
-      "message": "All the best guys. And thank you \ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb\ud83e\udef6\ud83c\udffb"
+      "date": "2026-05-31 20:43:12",
+      "amount": 18377,
+      "amount_display": "$184",
+      "name": "Bathurst Roadrunners",
+      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
     },
     {
       "date": "2026-01-12 19:01:42",
@@ -40,25 +40,25 @@
       "message": "Smash it bruz"
     },
     {
-      "date": "2026-06-06 16:21:08",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Mitch & Vikki  Botham",
-      "message": "Well done legends x"
+      "date": "2026-06-06 17:39:19",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Matthew Locke",
+      "message": "Unbelievable effort. Well done boys."
     },
     {
-      "date": "2026-01-13 11:10:30",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Bron Mitchell",
-      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+      "date": "2026-01-13 08:57:29",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Darren Sinclair",
+      "message": "Great work Ethan. Good luck to you and Austin"
     },
     {
-      "date": "2026-06-04 19:37:38",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Jeanette Cranney",
-      "message": "Massive effort for a great cause. Watching your journey I can see how hard this has been. Feeling for you all, you can do it."
+      "date": "2026-06-04 19:46:09",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Lisa Morrissey",
+      "message": "Amazing effort guys."
     }
   ]
 }
