@@ -1,22 +1,22 @@
 {
-  "raised": 36270,
+  "raised": 36320,
   "goal": 20000,
-  "donors": 269,
+  "donors": 270,
   "last_updated": "2026-06-30",
   "recent_donors": [
+    {
+      "date": "2026-06-30 18:29:00",
+      "amount": 5000,
+      "amount_display": "$50",
+      "name": "Craig McIntosh",
+      "message": ""
+    },
     {
       "date": "2026-06-26 00:15:03",
       "amount": 5484,
       "amount_display": "$55",
       "name": "Michelle Andrews",
       "message": "To dear Ethan, Austin, Issac and Lachlan, I came to know about you through reading an article in the Newcastle Herald. Each of you are making a difference- indeed just being prepared to stand up and put a spotlight on the devastating impact that mental illness can have is an achievement. You've gone that extra mile (and then some!!); you've raised some much-needed funds, and you have honoured the memory of your friend. With young men like yourselves setting such a positive example, I feel hopeful for a brighter tomorrow. Best wishes."
-    },
-    {
-      "date": "2026-06-14 10:15:32",
-      "amount": 50000,
-      "amount_display": "$500",
-      "name": "Bathurst2Newy boys",
-      "message": ""
     },
     {
       "date": "2026-05-30 10:22:38",
