@@ -1,9 +1,16 @@
 {
   "raised": 36320,
   "goal": 20000,
-  "donors": 270,
+  "donors": 271,
   "last_updated": "2026-07-01",
   "recent_donors": [
+    {
+      "date": "2026-07-01 18:27:12",
+      "amount": 109200,
+      "amount_display": "$1,092",
+      "name": "Bathurst to Newy boys",
+      "message": ""
+    },
     {
       "date": "2026-06-30 18:29:00",
       "amount": 5000,
@@ -12,53 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-06-26 00:15:03",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Michelle Andrews",
-      "message": "To dear Ethan, Austin, Issac and Lachlan, I came to know about you through reading an article in the Newcastle Herald. Each of you are making a difference- indeed just being prepared to stand up and put a spotlight on the devastating impact that mental illness can have is an achievement. You've gone that extra mile (and then some!!); you've raised some much-needed funds, and you have honoured the memory of your friend. With young men like yourselves setting such a positive example, I feel hopeful for a brighter tomorrow. Best wishes."
-    },
-    {
-      "date": "2026-06-06 15:55:57",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Shannon Felsch",
-      "message": "Yeah the boys! Amazing effort."
-    },
-    {
-      "date": "2026-06-03 06:48:39",
-      "amount": 154000,
-      "amount_display": "$1,540",
-      "name": "JAX Tyres & Auto Orange",
-      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
-    },
-    {
-      "date": "2026-06-07 18:19:01",
+      "date": "2026-01-13 11:10:30",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Sandra & Garry Thorn",
-      "message": "Well done boys, from Sandra and Garry, Poppy\u2019s grandparents."
+      "name": "Bron Mitchell",
+      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
     },
     {
-      "date": "2026-05-31 19:33:57",
+      "date": "2026-05-27 15:46:57",
+      "amount": 4000,
+      "amount_display": "$40",
+      "name": "Di Sams",
+      "message": "Good luck boys"
+    },
+    {
+      "date": "2026-06-04 11:26:22",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Kevin Walker",
-      "message": "All the best boys! Bx Roadrunners wishing you well!"
+      "name": "Denzil Begley",
+      "message": "Pick up the pace x"
     },
     {
-      "date": "2026-06-01 22:21:18",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Nikki, Nick, Vinnie and Tommy Press",
-      "message": "Good on you lads! \ud83d\ude4c\ud83c\udffc"
+      "date": "2026-06-01 10:53:16",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Steven Cateris",
+      "message": "I heard the interview with you on the Mornings with Mark Levy program on 1 June 2026. Best of luck!"
     },
     {
-      "date": "2026-06-02 20:28:06",
+      "date": "2026-06-06 16:21:02",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Jill",
-      "message": "Good luck"
+      "name": "Anna Lewis",
+      "message": "Amazing work for a great cause. Well done boys xxx"
+    },
+    {
+      "date": "2026-06-01 10:50:08",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Karen Buttsworth",
+      "message": "Very proud of you boys"
     }
   ]
 }
