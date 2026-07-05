@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-04-18 16:43:36",
-      "amount": 20000,
-      "amount_display": "$200",
-      "name": "LUKE A HACKETT",
-      "message": "Good luck Guys, Have fun great cause."
+      "date": "2026-06-03 06:48:39",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "JAX Tyres & Auto Orange",
+      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
     },
     {
-      "date": "2026-02-05 14:19:32",
-      "amount": 21100,
-      "amount_display": "$211",
-      "name": "Kel & Dave Dunbar xx",
-      "message": "You guys are amazing\ud83d\ude4c\ud83c\udffc\ud83d\udc4a\ud83c\udffc\ud83e\udd70"
+      "date": "2026-06-04 19:46:09",
+      "amount": 2843,
+      "amount_display": "$28",
+      "name": "Lisa Morrissey",
+      "message": "Amazing effort guys."
     },
     {
-      "date": "2026-02-21 14:45:11",
+      "date": "2026-06-08 12:13:21",
+      "amount": 15000,
+      "amount_display": "$150",
+      "name": "Paul McGrath",
+      "message": "An outstanding achievement for a great cause, a big congratulations on a fantastic effort and result."
+    },
+    {
+      "date": "2026-05-31 17:05:52",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Suz Wonson - Norford",
+      "message": "You guys are absolute legends!"
+    },
+    {
+      "date": "2026-06-05 13:01:21",
+      "amount": 1180,
+      "amount_display": "$12",
+      "name": "Anonymous",
+      "message": "Let\u2019s go boys"
+    },
+    {
+      "date": "2026-01-13 10:07:16",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Joey Blackie",
-      "message": "Good luck boys"
-    },
-    {
-      "date": "2026-01-13 08:57:29",
-      "amount": 52750,
-      "amount_display": "$528",
-      "name": "Darren Sinclair",
-      "message": "Great work Ethan. Good luck to you and Austin"
-    },
-    {
-      "date": "2026-05-08 21:20:52",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "Andrew Toole",
-      "message": "Awesome thing you guys are doing . Well done \ud83d\udc4d"
-    },
-    {
-      "date": "2026-01-12 21:36:50",
-      "amount": 5412,
-      "amount_display": "$54",
-      "name": "Hannah Cross",
-      "message": "You\u2019ve got this, support all the way"
+      "name": "Hannah Baxter",
+      "message": "Coming up to four years too long\u2026 thank you for doing this!"
     }
   ]
 }
