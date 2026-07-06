@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-06-03 06:48:39",
-      "amount": 154000,
-      "amount_display": "$1,540",
-      "name": "JAX Tyres & Auto Orange",
-      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
+      "date": "2026-06-12 18:14:34",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Bernard Driver",
+      "message": "Congratulations to the Comerford brothers, family & friends on your amazing achievement and funds raised."
     },
     {
-      "date": "2026-06-04 19:46:09",
-      "amount": 2843,
-      "amount_display": "$28",
-      "name": "Lisa Morrissey",
-      "message": "Amazing effort guys."
+      "date": "2026-06-06 09:33:31",
+      "amount": 31890,
+      "amount_display": "$319",
+      "name": "Mary + Co - Gym Girls",
+      "message": "Amazing effort boys!"
     },
     {
-      "date": "2026-06-08 12:13:21",
-      "amount": 15000,
-      "amount_display": "$150",
-      "name": "Paul McGrath",
-      "message": "An outstanding achievement for a great cause, a big congratulations on a fantastic effort and result."
-    },
-    {
-      "date": "2026-05-31 17:05:52",
+      "date": "2026-06-07 08:03:15",
       "amount": 10612,
       "amount_display": "$106",
-      "name": "Suz Wonson - Norford",
-      "message": "You guys are absolute legends!"
+      "name": "Emma McKenzie",
+      "message": "Congratulations guys! An amazing effort from everyone involved. You should all be very proud of yourselves\u2014well done!"
     },
     {
-      "date": "2026-06-05 13:01:21",
-      "amount": 1180,
-      "amount_display": "$12",
-      "name": "Anonymous",
-      "message": "Let\u2019s go boys"
-    },
-    {
-      "date": "2026-01-13 10:07:16",
+      "date": "2026-02-21 14:45:11",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Hannah Baxter",
-      "message": "Coming up to four years too long\u2026 thank you for doing this!"
+      "name": "Joey Blackie",
+      "message": "Good luck boys"
+    },
+    {
+      "date": "2026-05-25 15:23:39",
+      "amount": 3387,
+      "amount_display": "$34",
+      "name": "Nic and Wade Elliott",
+      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+    },
+    {
+      "date": "2026-05-31 19:39:01",
+      "amount": 75000,
+      "amount_display": "$750",
+      "name": "Tim Booth",
+      "message": "Awesome words lads"
     }
   ]
 }
