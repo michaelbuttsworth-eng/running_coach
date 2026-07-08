@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-09",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-01-13 11:10:30",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Bron Mitchell",
-      "message": "So proud of you I\u2019ll run a km with you will bring Jodes with me \u2665\ufe0f\ud83d\udc4f\ud83c\udffb\ud83d\udc4c"
+      "date": "2026-04-16 16:10:50",
+      "amount": 2000,
+      "amount_display": "$20",
+      "name": "Cheryl Mitford",
+      "message": "Lets look after our mates"
     },
     {
-      "date": "2026-06-04 08:07:27",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Flynn Waddell",
-      "message": "Keep it up boys. All backing you"
-    },
-    {
-      "date": "2026-01-15 11:24:33",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Brendon & Ammy",
-      "message": "Good luck !!!"
-    },
-    {
-      "date": "2026-06-01 11:55:38",
+      "date": "2026-05-25 15:23:39",
       "amount": 3387,
       "amount_display": "$34",
-      "name": "Scott  Kauter",
-      "message": "Well done lads!"
+      "name": "Nic and Wade Elliott",
+      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
     },
     {
-      "date": "2026-05-25 20:15:05",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Niel & Renee Howard",
-      "message": "So proud! See you all at the finish line."
+      "date": "2026-05-31 21:01:24",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The O\u2019Mally\u2019s",
+      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
     },
     {
-      "date": "2026-05-28 10:22:27",
-      "amount": 26725,
-      "amount_display": "$267",
-      "name": "Geordie Larkin",
-      "message": "Into it boys \ud83e\udee1"
+      "date": "2026-06-06 15:55:57",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Shannon Felsch",
+      "message": "Yeah the boys! Amazing effort."
+    },
+    {
+      "date": "2026-03-17 07:22:47",
+      "amount": 52750,
+      "amount_display": "$528",
+      "name": "Daz & El",
+      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
+    },
+    {
+      "date": "2026-06-06 19:12:53",
+      "amount": 2350,
+      "amount_display": "$24",
+      "name": "Maryanne Mansur",
+      "message": "Incredible effort boys! You should be so proud!"
     }
   ]
 }
