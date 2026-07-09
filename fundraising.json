@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-09",
+  "last_updated": "2026-07-10",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,6 +19,20 @@
       "message": ""
     },
     {
+      "date": "2026-05-17 20:18:02",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Jodi  Culnane",
+      "message": "You guys are amazing!!!"
+    },
+    {
+      "date": "2026-06-06 13:47:00",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Anonymous",
+      "message": "Great Effort, Great Cause."
+    },
+    {
       "date": "2026-04-16 16:10:50",
       "amount": 2000,
       "amount_display": "$20",
@@ -26,39 +40,25 @@
       "message": "Lets look after our mates"
     },
     {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-02-02 18:57:12",
+      "amount": 12500,
+      "amount_display": "$125",
+      "name": "Marg Sharkey",
+      "message": "Well done Ethan"
     },
     {
-      "date": "2026-05-31 21:01:24",
+      "date": "2026-06-26 00:15:03",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "The O\u2019Mally\u2019s",
-      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
+      "name": "Michelle Andrews",
+      "message": "To dear Ethan, Austin, Issac and Lachlan, I came to know about you through reading an article in the Newcastle Herald. Each of you are making a difference- indeed just being prepared to stand up and put a spotlight on the devastating impact that mental illness can have is an achievement. You've gone that extra mile (and then some!!); you've raised some much-needed funds, and you have honoured the memory of your friend. With young men like yourselves setting such a positive example, I feel hopeful for a brighter tomorrow. Best wishes."
     },
     {
-      "date": "2026-06-06 15:55:57",
+      "date": "2026-06-04 11:26:22",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Shannon Felsch",
-      "message": "Yeah the boys! Amazing effort."
-    },
-    {
-      "date": "2026-03-17 07:22:47",
-      "amount": 52750,
-      "amount_display": "$528",
-      "name": "Daz & El",
-      "message": "Good on you Eth and Austin. Putting in a great effort for a great cause. Good luck with the training. Fight on when it gets hard. Be proud of yourselves."
-    },
-    {
-      "date": "2026-06-06 19:12:53",
-      "amount": 2350,
-      "amount_display": "$24",
-      "name": "Maryanne Mansur",
-      "message": "Incredible effort boys! You should be so proud!"
+      "name": "Denzil Begley",
+      "message": "Pick up the pace x"
     }
   ]
 }
