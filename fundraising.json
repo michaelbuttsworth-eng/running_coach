@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-11",
+  "last_updated": "2026-07-12",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,32 +19,39 @@
       "message": ""
     },
     {
-      "date": "2026-06-01 09:51:13",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Altech Air - Lavelle Family",
-      "message": "Proud of you all! Big six days ahead, you got this!!! Keep spreading awareness!"
+      "date": "2026-06-06 20:26:59",
+      "amount": 26725,
+      "amount_display": "$267",
+      "name": "Central West Waste Management",
+      "message": "Congratulations boys! Watching your journey and your passion to make a difference is inspirational and I hope you are all incredibly proud of what you have achieved."
     },
     {
-      "date": "2026-05-31 17:05:52",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Suz Wonson - Norford",
-      "message": "You guys are absolute legends!"
+      "date": "2026-06-03 12:22:21",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "Janelle Shaw",
+      "message": "Great effort for a great cause! \ud83d\udc4d\ud83c\udffb"
     },
     {
-      "date": "2026-01-22 21:50:15",
-      "amount": 8025,
+      "date": "2026-05-31 21:01:24",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "The O\u2019Mally\u2019s",
+      "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
+    },
+    {
+      "date": "2026-06-02 11:40:06",
+      "amount": 8000,
       "amount_display": "$80",
-      "name": "Lisa Smith (Powell)",
-      "message": "Good luck!!!"
+      "name": "Ian  Webb",
+      "message": "Best of luck boys."
     },
     {
-      "date": "2026-01-13 08:57:29",
-      "amount": 52750,
-      "amount_display": "$528",
-      "name": "Darren Sinclair",
-      "message": "Great work Ethan. Good luck to you and Austin"
+      "date": "2026-05-03 10:39:16",
+      "amount": 5484,
+      "amount_display": "$55",
+      "name": "James Worthington",
+      "message": "I love Buttsy"
     },
     {
       "date": "2026-05-25 15:23:39",
@@ -52,13 +59,6 @@
       "amount_display": "$34",
       "name": "Nic and Wade Elliott",
       "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
-    },
-    {
-      "date": "2026-01-12 21:22:41",
-      "amount": 21100,
-      "amount_display": "$211",
-      "name": "Jodie C",
-      "message": "So proud of you!"
     }
   ]
 }
