@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-12",
+  "last_updated": "2026-07-13",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,18 +19,25 @@
       "message": ""
     },
     {
-      "date": "2026-06-06 20:26:59",
-      "amount": 26725,
-      "amount_display": "$267",
-      "name": "Central West Waste Management",
-      "message": "Congratulations boys! Watching your journey and your passion to make a difference is inspirational and I hope you are all incredibly proud of what you have achieved."
+      "date": "2026-05-08 16:47:30",
+      "amount": 104000,
+      "amount_display": "$1,040",
+      "name": "Anytime Fitness Bathurst",
+      "message": "Proud to support such an amazing cause and 3 amazing men. Love your work guys!!!"
     },
     {
-      "date": "2026-06-03 12:22:21",
+      "date": "2026-05-24 19:32:35",
+      "amount": 10372,
+      "amount_display": "$104",
+      "name": "Lan Cam Connor Brown",
+      "message": "Wishing you all the best mate x go well"
+    },
+    {
+      "date": "2026-05-26 08:38:58",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Janelle Shaw",
-      "message": "Great effort for a great cause! \ud83d\udc4d\ud83c\udffb"
+      "name": "Kyle and Immy",
+      "message": "Smash it boys!"
     },
     {
       "date": "2026-05-31 21:01:24",
@@ -40,25 +47,18 @@
       "message": "Superstars! We\u2019ll be running with you all the way. Archie will have a cold bevvy waiting for you at Merewether!"
     },
     {
-      "date": "2026-06-02 11:40:06",
-      "amount": 8000,
-      "amount_display": "$80",
-      "name": "Ian  Webb",
-      "message": "Best of luck boys."
-    },
-    {
-      "date": "2026-05-03 10:39:16",
+      "date": "2026-06-26 00:15:03",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "James Worthington",
-      "message": "I love Buttsy"
+      "name": "Michelle Andrews",
+      "message": "To dear Ethan, Austin, Issac and Lachlan, I came to know about you through reading an article in the Newcastle Herald. Each of you are making a difference- indeed just being prepared to stand up and put a spotlight on the devastating impact that mental illness can have is an achievement. You've gone that extra mile (and then some!!); you've raised some much-needed funds, and you have honoured the memory of your friend. With young men like yourselves setting such a positive example, I feel hopeful for a brighter tomorrow. Best wishes."
     },
     {
-      "date": "2026-05-25 15:23:39",
-      "amount": 3387,
-      "amount_display": "$34",
-      "name": "Nic and Wade Elliott",
-      "message": "Go boys! \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f"
+      "date": "2026-05-31 19:39:01",
+      "amount": 75000,
+      "amount_display": "$750",
+      "name": "Tim Booth",
+      "message": "Awesome words lads"
     }
   ]
 }
