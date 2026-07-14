@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-07-15",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,11 +19,18 @@
       "message": ""
     },
     {
-      "date": "2026-06-02 11:40:06",
-      "amount": 8000,
-      "amount_display": "$80",
-      "name": "Ian  Webb",
-      "message": "Best of luck boys."
+      "date": "2026-06-08 12:13:21",
+      "amount": 15000,
+      "amount_display": "$150",
+      "name": "Paul McGrath",
+      "message": "An outstanding achievement for a great cause, a big congratulations on a fantastic effort and result."
+    },
+    {
+      "date": "2026-06-01 10:50:08",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Karen Buttsworth",
+      "message": "Very proud of you boys"
     },
     {
       "date": "2026-05-25 15:26:52",
@@ -33,32 +40,25 @@
       "message": "\ud83d\udc9b"
     },
     {
-      "date": "2026-06-05 19:34:56",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Ella and Izzy xx",
-      "message": "Inspiring, you guys got this! Proud of you all"
-    },
-    {
-      "date": "2026-01-12 22:27:00",
-      "amount": 13188,
-      "amount_display": "$132",
-      "name": "Favero and associates financial planning",
-      "message": "Good luck"
-    },
-    {
-      "date": "2026-05-03 10:39:16",
+      "date": "2026-06-01 15:47:58",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "James Worthington",
-      "message": "I love Buttsy"
+      "name": "Eve Bathurst",
+      "message": "Good luck team!"
     },
     {
-      "date": "2026-05-31 20:43:12",
-      "amount": 18377,
-      "amount_display": "$184",
-      "name": "Bathurst Roadrunners",
-      "message": "Awesome work, ya legends! Absolute massive effort for such a great cause. Remember to try and have some fun out there! Just take it one foot in front of the other. Huge shoutout to the support crew behind the scenes keeping the wheels turning too. Best of luck from our whole crew! \ud83d\udc4a\ud83d\udd25"
+      "date": "2026-06-03 10:17:06",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Mark, Kylie, Fletch & Seth Norris",
+      "message": "Goodluck boys\u2026fantastic effort!"
+    },
+    {
+      "date": "2026-02-02 17:51:36",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Emma Robinson",
+      "message": "Well done boys"
     }
   ]
 }
