@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,11 +19,18 @@
       "message": ""
     },
     {
-      "date": "2026-06-08 12:13:21",
-      "amount": 15000,
-      "amount_display": "$150",
-      "name": "Paul McGrath",
-      "message": "An outstanding achievement for a great cause, a big congratulations on a fantastic effort and result."
+      "date": "2026-06-06 18:32:42",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Vic Hughes",
+      "message": "Never underestimate the impact you have had on the Stannies boys! This is an amazing journey and we are so proud of you all! Xx"
+    },
+    {
+      "date": "2026-05-29 12:48:25",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Tam & Ben Stuart",
+      "message": "Such a worthy cause. Go boys!!"
     },
     {
       "date": "2026-06-01 10:50:08",
@@ -33,32 +40,25 @@
       "message": "Very proud of you boys"
     },
     {
-      "date": "2026-05-25 15:26:52",
-      "amount": 5000,
-      "amount_display": "$50",
-      "name": "Sophie Felsch",
-      "message": "\ud83d\udc9b"
+      "date": "2026-06-06 16:21:08",
+      "amount": 21500,
+      "amount_display": "$215",
+      "name": "Mitch & Vikki  Botham",
+      "message": "Well done legends x"
     },
     {
-      "date": "2026-06-01 15:47:58",
-      "amount": 5484,
-      "amount_display": "$55",
-      "name": "Eve Bathurst",
-      "message": "Good luck team!"
+      "date": "2026-06-03 06:48:39",
+      "amount": 154000,
+      "amount_display": "$1,540",
+      "name": "JAX Tyres & Auto Orange",
+      "message": "Hey guys, Morgan and I have been watching from afar & we are so impressed with all of you. Stick in there and keep your heads held high."
     },
     {
-      "date": "2026-06-03 10:17:06",
-      "amount": 10612,
-      "amount_display": "$106",
-      "name": "Mark, Kylie, Fletch & Seth Norris",
-      "message": "Goodluck boys\u2026fantastic effort!"
-    },
-    {
-      "date": "2026-02-02 17:51:36",
+      "date": "2026-02-02 22:33:01",
       "amount": 5412,
       "amount_display": "$54",
-      "name": "Emma Robinson",
-      "message": "Well done boys"
+      "name": "Noah & Kate Wilkinson",
+      "message": "Goodluck Boys \ud83c\udf1f"
     }
   ]
 }
