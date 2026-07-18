@@ -2,7 +2,7 @@
   "raised": 37412,
   "goal": 20000,
   "donors": 271,
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "recent_donors": [
     {
       "date": "2026-07-01 18:27:12",
@@ -19,46 +19,46 @@
       "message": ""
     },
     {
-      "date": "2026-05-30 15:17:15",
-      "amount": 13265,
-      "amount_display": "$133",
-      "name": "Sam Farraway",
-      "message": "Good luck boys! Very worthy cause."
+      "date": "2026-01-12 21:22:41",
+      "amount": 21100,
+      "amount_display": "$211",
+      "name": "Jodie C",
+      "message": "So proud of you!"
     },
     {
-      "date": "2026-06-04 11:26:22",
+      "date": "2026-01-12 21:36:50",
+      "amount": 5412,
+      "amount_display": "$54",
+      "name": "Hannah Cross",
+      "message": "You\u2019ve got this, support all the way"
+    },
+    {
+      "date": "2026-06-04 17:42:58",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Denzil Begley",
-      "message": "Pick up the pace x"
+      "name": "Turi Anderson",
+      "message": "Good work guys!"
     },
     {
-      "date": "2026-06-05 13:23:52",
+      "date": "2026-06-06 07:20:35",
+      "amount": 10612,
+      "amount_display": "$106",
+      "name": "Burnice & Trent Browne",
+      "message": "Amazing effort everyone!!"
+    },
+    {
+      "date": "2026-06-06 18:15:39",
       "amount": 5484,
       "amount_display": "$55",
-      "name": "Vicki  and Phoebe",
-      "message": "Excellent jobs guys, your nearly there \u2764\ufe0f"
+      "name": "Louise Roberts",
+      "message": "Great job guys. Congratulations on a strong finish. So good to rope in some of your mates for the run into Newy."
     },
     {
-      "date": "2026-06-05 22:09:06",
-      "amount": 8096,
-      "amount_display": "$81",
-      "name": "Rebecca Spice",
-      "message": "We are all so proud amazing job The spice Clan"
-    },
-    {
-      "date": "2026-06-06 17:44:32",
-      "amount": 52900,
-      "amount_display": "$529",
-      "name": "Brilliant Street Cafe",
-      "message": "Fella\u2019s that was amazing, well done! You are incredible!!!!"
-    },
-    {
-      "date": "2026-05-25 20:15:05",
-      "amount": 21500,
-      "amount_display": "$215",
-      "name": "Niel & Renee Howard",
-      "message": "So proud! See you all at the finish line."
+      "date": "2026-02-03 13:03:23",
+      "amount": 3315,
+      "amount_display": "$33",
+      "name": "Elaine & Phil",
+      "message": "Such a great cause Ethan and Austin. Good on you both. \ud83d\udc4f Lots of luck."
     }
   ]
 }
